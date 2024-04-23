@@ -1,0 +1,923 @@
+#NEXUS
+
+Begin taxa;
+	Dimensions ntax=456;
+		Taxlabels
+			1029|uk
+			1030|uk
+			1066|mainland_europe
+			1069|west_us
+			1153|mainland_europe
+			1185|west_mw_us
+			1187|west_mw_us
+			118|north_east_us
+			1193|west_mw_us
+			1203|west_mw_us
+			1207|west_mw_us
+			1209|west_mw_us
+			1210|west_mw_us
+			1217|west_mw_us
+			121|north_east_us
+			1220|west_mw_us
+			1221|west_mw_us
+			1226|west_mw_us
+			1227|west_mw_us
+			1229|west_mw_us
+			1234|west_mw_us
+			1235|west_mw_us
+			1237|west_mw_us
+			1242|west_mw_us
+			1245|west_mw_us
+			1301|west_mw_us
+			1346|west_us
+			1347|west_us
+			1348|west_us
+			1349|west_us
+			1350|west_us
+			1351|west_us
+			1352|west_us
+			1353|west_us
+			1354|west_us
+			1355|west_us
+			1356|west_us
+			1357|west_us
+			1358|west_us
+			1359|west_us
+			1360|west_us
+			1361|west_us
+			1362|west_us
+			1363|west_us
+			1364|west_us
+			1365|west_us
+			1366|west_us
+			1369|qc_nf
+			1370|qc_nf
+			1374|qc_nf
+			1375|qc_nf
+			1376|qc_nf
+			1377|qc_nf
+			1380|qc_nf
+			1383|qc_nf
+			1387|qc_nf
+			1391|qc_nf
+			1393|qc_nf
+			1395|qc_nf
+			1396|qc_nf
+			1398|east_mw_us
+			1399|east_mw_us
+			1400|east_mw_us
+			1401|east_mw_us
+			1402|east_mw_us
+			1404|west_mw_us
+			1406|east_mw_us
+			1407|east_mw_us
+			1408|east_mw_us
+			1409|east_mw_us
+			1411|east_mw_us
+			1412|east_mw_us
+			1413|east_mw_us
+			1415|east_mw_us
+			1419|west_mw_us
+			1421|east_mw_us
+			1525|qc_nf
+			1526|ontario
+			1531|manitoba
+			1532|manitoba
+			1533|manitoba
+			1536|manitoba
+			1537|manitoba
+			1539|manitoba
+			1542|nb_pei_ns
+			1544|nb_pei_ns
+			1674|mainland_europe
+			1679|mainland_europe
+			1681|mainland_europe
+			1683|mainland_europe
+			1684|mainland_europe
+			1687|mainland_europe
+			1691|mainland_europe
+			1692|mainland_europe
+			1693|mainland_europe
+			1695|mainland_europe
+			1696|mainland_europe
+			1699|mainland_europe
+			1700|mainland_europe
+			1702|mainland_europe
+			1703|mainland_europe
+			1705|mainland_europe
+			1708|mainland_europe
+			1709|mainland_europe
+			1713|mainland_europe
+			1714|mainland_europe
+			1716|mainland_europe
+			1719|mainland_europe
+			1720|mainland_europe
+			1722|mainland_europe
+			1724|mainland_europe
+			1730|mainland_europe
+			1731|mainland_europe
+			1882|mainland_europe
+			1883|mainland_europe
+			1889|manitoba
+			1893|ontario
+			2038|manitoba
+			2039|west_us
+			2042|dc_adjacent
+			2045|east_mw_us
+			2047|west_mw_us
+			2049|west_mw_us
+			2050|west_mw_us
+			2079|west_us
+			2146|qc_nf
+			2148|qc_nf
+			2150|qc_nf
+			2151|qc_nf
+			2153|qc_nf
+			2159|qc_nf
+			2161|qc_nf
+			2168|qc_nf
+			2172|qc_nf
+			2173|qc_nf
+			2175|qc_nf
+			2181|qc_nf
+			2194|manitoba
+			2196|manitoba
+			2202|manitoba
+			2213|manitoba
+			2214|manitoba
+			2218|qc_nf
+			2219|qc_nf
+			2220|qc_nf
+			2221|qc_nf
+			2233|ontario
+			2240|ontario
+			2252|manitoba
+			2254|manitoba
+			2256|manitoba
+			2257|manitoba
+			2260|manitoba
+			2262|manitoba
+			2263|manitoba
+			2265|manitoba
+			2268|manitoba
+			2274|manitoba
+			2275|manitoba
+			2283|ontario
+			2284|ontario
+			2289|ontario
+			2292|ontario
+			2298|ontario
+			2304|ontario
+			2307|ontario
+			2313|ontario
+			2323|ontario
+			2325|ontario
+			2332|ontario
+			2343|qc_nf
+			2344|qc_nf
+			2351|qc_nf
+			2356|qc_nf
+			2358|qc_nf
+			2360|qc_nf
+			2363|qc_nf
+			2367|qc_nf
+			2382|ontario
+			2391|manitoba
+			2393|manitoba
+			2395|manitoba
+			2396|manitoba
+			2407|ontario
+			2413|nb_pei_ns
+			2424|nb_pei_ns
+			2425|nb_pei_ns
+			2426|nb_pei_ns
+			2428|nb_pei_ns
+			2430|nb_pei_ns
+			2431|nb_pei_ns
+			2436|manitoba
+			2437|manitoba
+			2438|manitoba
+			2442|manitoba
+			2443|manitoba
+			2445|manitoba
+			2447|manitoba
+			2448|manitoba
+			25|north_east_us
+			2621|uk
+			2622|uk
+			2623|uk
+			2624|uk
+			2625|uk
+			2626|uk
+			2627|uk
+			2628|uk
+			2629|uk
+			2630|uk
+			2631|uk
+			2632|uk
+			2633|uk
+			2634|uk
+			2635|uk
+			2636|uk
+			2637|uk
+			2638|uk
+			2639|uk
+			2640|uk
+			2641|uk
+			2642|uk
+			2643|uk
+			2644|uk
+			2645|uk
+			2646|uk
+			2647|uk
+			2648|uk
+			2649|uk
+			2650|uk
+			2776|new_england
+			2777|west_us
+			2781|mainland_europe
+			2786|west_us
+			2792|west_us
+			28|west_us
+			29|west_us
+			30|west_us
+			3195|new_england
+			31|west_us
+			3276|new_england
+			3284|new_england
+			3286|new_england
+			3287|new_england
+			3294|new_england
+			3298|new_england
+			32|west_us
+			3302|new_england
+			3303|new_england
+			3304|new_england
+			3306|new_england
+			3318|new_england
+			3331|north_east_us
+			3335|west_mw_us
+			3357|nb_pei_ns
+			3361|new_england
+			3362|new_england
+			3374|west_mw_us
+			3375|west_mw_us
+			3383|nb_pei_ns
+			3384|ontario
+			3387|north_east_us
+			3394|north_east_us
+			33|west_us
+			3403|north_east_us
+			3404|qc_nf
+			3411|new_england
+			3413|new_england
+			3415|west_mw_us
+			3416|dc_adjacent
+			3417|dc_adjacent
+			3418|dc_adjacent
+			3419|dc_adjacent
+			3420|dc_adjacent
+			3421|dc_adjacent
+			3422|dc_adjacent
+			3463|ontario
+			3465|ontario
+			3469|ontario
+			3472|ontario
+			3480|ontario
+			3483|ontario
+			3485|ontario
+			3486|ontario
+			3487|ontario
+			3492|ontario
+			3493|ontario
+			3494|ontario
+			34|west_us
+			3570|dc_adjacent
+			3571|dc_adjacent
+			3572|west_mw_us
+			3573|west_mw_us
+			3575|north_east_us
+			3577|dc_adjacent
+			35|west_us
+			3652|bc_ab
+			3653|bc_ab
+			3654|bc_ab
+			3655|bc_ab
+			3656|bc_ab
+			3657|bc_ab
+			3658|bc_ab
+			3659|bc_ab
+			3660|bc_ab
+			3661|bc_ab
+			3662|bc_ab
+			3663|bc_ab
+			3665|bc_ab
+			3666|bc_ab
+			3667|bc_ab
+			3668|bc_ab
+			3670|bc_ab
+			3671|bc_ab
+			3672|bc_ab
+			3673|bc_ab
+			3674|bc_ab
+			3675|bc_ab
+			3676|bc_ab
+			3677|bc_ab
+			3678|bc_ab
+			3679|bc_ab
+			3680|bc_ab
+			3681|bc_ab
+			3682|bc_ab
+			3684|bc_ab
+			3685|bc_ab
+			3686|bc_ab
+			36|mainland_europe
+			397|new_england
+			3|north_east_us
+			40|mainland_europe
+			410|north_east_us
+			412|dc_adjacent
+			413|east_mw_us
+			415|dc_adjacent
+			416|new_england
+			417|new_england
+			41|mainland_europe
+			424|west_mw_us
+			426|east_mw_us
+			430|west_mw_us
+			431|east_mw_us
+			432|east_mw_us
+			433|east_mw_us
+			434|east_mw_us
+			43|mainland_europe
+			447|west_mw_us
+			448|west_mw_us
+			449|west_mw_us
+			454|west_mw_us
+			457|west_mw_us
+			458|west_mw_us
+			459|west_mw_us
+			45|mainland_europe
+			460|east_mw_us
+			46|mainland_europe
+			470|west_mw_us
+			472|dc_adjacent
+			47|mainland_europe
+			50|mainland_europe
+			545|new_england
+			548|new_england
+			549|new_england
+			554|new_england
+			555|new_england
+			560|new_england
+			563|new_england
+			573|north_east_us
+			577|north_east_us
+			578|north_east_us
+			579|north_east_us
+			582|north_east_us
+			585|north_east_us
+			587|north_east_us
+			588|north_east_us
+			593|north_east_us
+			595|north_east_us
+			608|north_east_us
+			614|north_east_us
+			616|north_east_us
+			621|north_east_us
+			626|north_east_us
+			641|north_east_us
+			646|north_east_us
+			648|north_east_us
+			651|north_east_us
+			671|north_east_us
+			679|new_england
+			689|new_england
+			700|new_england
+			701|new_england
+			720|new_england
+			730|new_england
+			738|north_east_us
+			742|new_england
+			743|new_england
+			766|new_england
+			76|north_east_us
+			785|north_east_us
+			786|north_east_us
+			793|new_england
+			798|new_england
+			79|north_east_us
+			7|north_east_us
+			801|new_england
+			832|north_east_us
+			840|north_east_us
+			845|north_east_us
+			857|new_england
+			865|bc_ab
+			866|manitoba
+			867|manitoba
+			869|manitoba
+			871|manitoba
+			872|nb_pei_ns
+			876|nb_pei_ns
+			877|nb_pei_ns
+			879|nb_pei_ns
+			881|nb_pei_ns
+			882|nb_pei_ns
+			883|nb_pei_ns
+			884|nb_pei_ns
+			885|qc_nf
+			889|nb_pei_ns
+			891|nb_pei_ns
+			893|nb_pei_ns
+			894|nb_pei_ns
+			896|nb_pei_ns
+			897|nb_pei_ns
+			899|nb_pei_ns
+			903|nb_pei_ns
+			904|nb_pei_ns
+			906|nb_pei_ns
+			908|nb_pei_ns
+			909|nb_pei_ns
+			913|ontario
+			914|ontario
+			916|ontario
+			917|ontario
+			923|ontario
+			928|ontario
+			943|ontario
+			953|ontario
+			96|north_east_us
+			972|ontario
+			974|ontario
+			978|nb_pei_ns
+			980|nb_pei_ns
+			982|nb_pei_ns
+			984|nb_pei_ns
+			987|nb_pei_ns
+			993|nb_pei_ns
+			994|nb_pei_ns
+			996|nb_pei_ns
+			998|nb_pei_ns
+			;
+End;
+Begin trees;
+	Translate
+		     1 1029|uk,
+		     2 1030|uk,
+		     3 1066|mainland_europe,
+		     4 1069|west_us,
+		     5 1153|mainland_europe,
+		     6 1185|west_mw_us,
+		     7 1187|west_mw_us,
+		     8 118|north_east_us,
+		     9 1193|west_mw_us,
+		    10 1203|west_mw_us,
+		    11 1207|west_mw_us,
+		    12 1209|west_mw_us,
+		    13 1210|west_mw_us,
+		    14 1217|west_mw_us,
+		    15 121|north_east_us,
+		    16 1220|west_mw_us,
+		    17 1221|west_mw_us,
+		    18 1226|west_mw_us,
+		    19 1227|west_mw_us,
+		    20 1229|west_mw_us,
+		    21 1234|west_mw_us,
+		    22 1235|west_mw_us,
+		    23 1237|west_mw_us,
+		    24 1242|west_mw_us,
+		    25 1245|west_mw_us,
+		    26 1301|west_mw_us,
+		    27 1346|west_us,
+		    28 1347|west_us,
+		    29 1348|west_us,
+		    30 1349|west_us,
+		    31 1350|west_us,
+		    32 1351|west_us,
+		    33 1352|west_us,
+		    34 1353|west_us,
+		    35 1354|west_us,
+		    36 1355|west_us,
+		    37 1356|west_us,
+		    38 1357|west_us,
+		    39 1358|west_us,
+		    40 1359|west_us,
+		    41 1360|west_us,
+		    42 1361|west_us,
+		    43 1362|west_us,
+		    44 1363|west_us,
+		    45 1364|west_us,
+		    46 1365|west_us,
+		    47 1366|west_us,
+		    48 1369|qc_nf,
+		    49 1370|qc_nf,
+		    50 1374|qc_nf,
+		    51 1375|qc_nf,
+		    52 1376|qc_nf,
+		    53 1377|qc_nf,
+		    54 1380|qc_nf,
+		    55 1383|qc_nf,
+		    56 1387|qc_nf,
+		    57 1391|qc_nf,
+		    58 1393|qc_nf,
+		    59 1395|qc_nf,
+		    60 1396|qc_nf,
+		    61 1398|east_mw_us,
+		    62 1399|east_mw_us,
+		    63 1400|east_mw_us,
+		    64 1401|east_mw_us,
+		    65 1402|east_mw_us,
+		    66 1404|west_mw_us,
+		    67 1406|east_mw_us,
+		    68 1407|east_mw_us,
+		    69 1408|east_mw_us,
+		    70 1409|east_mw_us,
+		    71 1411|east_mw_us,
+		    72 1412|east_mw_us,
+		    73 1413|east_mw_us,
+		    74 1415|east_mw_us,
+		    75 1419|west_mw_us,
+		    76 1421|east_mw_us,
+		    77 1525|qc_nf,
+		    78 1526|ontario,
+		    79 1531|manitoba,
+		    80 1532|manitoba,
+		    81 1533|manitoba,
+		    82 1536|manitoba,
+		    83 1537|manitoba,
+		    84 1539|manitoba,
+		    85 1542|nb_pei_ns,
+		    86 1544|nb_pei_ns,
+		    87 1674|mainland_europe,
+		    88 1679|mainland_europe,
+		    89 1681|mainland_europe,
+		    90 1683|mainland_europe,
+		    91 1684|mainland_europe,
+		    92 1687|mainland_europe,
+		    93 1691|mainland_europe,
+		    94 1692|mainland_europe,
+		    95 1693|mainland_europe,
+		    96 1695|mainland_europe,
+		    97 1696|mainland_europe,
+		    98 1699|mainland_europe,
+		    99 1700|mainland_europe,
+		   100 1702|mainland_europe,
+		   101 1703|mainland_europe,
+		   102 1705|mainland_europe,
+		   103 1708|mainland_europe,
+		   104 1709|mainland_europe,
+		   105 1713|mainland_europe,
+		   106 1714|mainland_europe,
+		   107 1716|mainland_europe,
+		   108 1719|mainland_europe,
+		   109 1720|mainland_europe,
+		   110 1722|mainland_europe,
+		   111 1724|mainland_europe,
+		   112 1730|mainland_europe,
+		   113 1731|mainland_europe,
+		   114 1882|mainland_europe,
+		   115 1883|mainland_europe,
+		   116 1889|manitoba,
+		   117 1893|ontario,
+		   118 2038|manitoba,
+		   119 2039|west_us,
+		   120 2042|dc_adjacent,
+		   121 2045|east_mw_us,
+		   122 2047|west_mw_us,
+		   123 2049|west_mw_us,
+		   124 2050|west_mw_us,
+		   125 2079|west_us,
+		   126 2146|qc_nf,
+		   127 2148|qc_nf,
+		   128 2150|qc_nf,
+		   129 2151|qc_nf,
+		   130 2153|qc_nf,
+		   131 2159|qc_nf,
+		   132 2161|qc_nf,
+		   133 2168|qc_nf,
+		   134 2172|qc_nf,
+		   135 2173|qc_nf,
+		   136 2175|qc_nf,
+		   137 2181|qc_nf,
+		   138 2194|manitoba,
+		   139 2196|manitoba,
+		   140 2202|manitoba,
+		   141 2213|manitoba,
+		   142 2214|manitoba,
+		   143 2218|qc_nf,
+		   144 2219|qc_nf,
+		   145 2220|qc_nf,
+		   146 2221|qc_nf,
+		   147 2233|ontario,
+		   148 2240|ontario,
+		   149 2252|manitoba,
+		   150 2254|manitoba,
+		   151 2256|manitoba,
+		   152 2257|manitoba,
+		   153 2260|manitoba,
+		   154 2262|manitoba,
+		   155 2263|manitoba,
+		   156 2265|manitoba,
+		   157 2268|manitoba,
+		   158 2274|manitoba,
+		   159 2275|manitoba,
+		   160 2283|ontario,
+		   161 2284|ontario,
+		   162 2289|ontario,
+		   163 2292|ontario,
+		   164 2298|ontario,
+		   165 2304|ontario,
+		   166 2307|ontario,
+		   167 2313|ontario,
+		   168 2323|ontario,
+		   169 2325|ontario,
+		   170 2332|ontario,
+		   171 2343|qc_nf,
+		   172 2344|qc_nf,
+		   173 2351|qc_nf,
+		   174 2356|qc_nf,
+		   175 2358|qc_nf,
+		   176 2360|qc_nf,
+		   177 2363|qc_nf,
+		   178 2367|qc_nf,
+		   179 2382|ontario,
+		   180 2391|manitoba,
+		   181 2393|manitoba,
+		   182 2395|manitoba,
+		   183 2396|manitoba,
+		   184 2407|ontario,
+		   185 2413|nb_pei_ns,
+		   186 2424|nb_pei_ns,
+		   187 2425|nb_pei_ns,
+		   188 2426|nb_pei_ns,
+		   189 2428|nb_pei_ns,
+		   190 2430|nb_pei_ns,
+		   191 2431|nb_pei_ns,
+		   192 2436|manitoba,
+		   193 2437|manitoba,
+		   194 2438|manitoba,
+		   195 2442|manitoba,
+		   196 2443|manitoba,
+		   197 2445|manitoba,
+		   198 2447|manitoba,
+		   199 2448|manitoba,
+		   200 25|north_east_us,
+		   201 2621|uk,
+		   202 2622|uk,
+		   203 2623|uk,
+		   204 2624|uk,
+		   205 2625|uk,
+		   206 2626|uk,
+		   207 2627|uk,
+		   208 2628|uk,
+		   209 2629|uk,
+		   210 2630|uk,
+		   211 2631|uk,
+		   212 2632|uk,
+		   213 2633|uk,
+		   214 2634|uk,
+		   215 2635|uk,
+		   216 2636|uk,
+		   217 2637|uk,
+		   218 2638|uk,
+		   219 2639|uk,
+		   220 2640|uk,
+		   221 2641|uk,
+		   222 2642|uk,
+		   223 2643|uk,
+		   224 2644|uk,
+		   225 2645|uk,
+		   226 2646|uk,
+		   227 2647|uk,
+		   228 2648|uk,
+		   229 2649|uk,
+		   230 2650|uk,
+		   231 2776|new_england,
+		   232 2777|west_us,
+		   233 2781|mainland_europe,
+		   234 2786|west_us,
+		   235 2792|west_us,
+		   236 28|west_us,
+		   237 29|west_us,
+		   238 30|west_us,
+		   239 3195|new_england,
+		   240 31|west_us,
+		   241 3276|new_england,
+		   242 3284|new_england,
+		   243 3286|new_england,
+		   244 3287|new_england,
+		   245 3294|new_england,
+		   246 3298|new_england,
+		   247 32|west_us,
+		   248 3302|new_england,
+		   249 3303|new_england,
+		   250 3304|new_england,
+		   251 3306|new_england,
+		   252 3318|new_england,
+		   253 3331|north_east_us,
+		   254 3335|west_mw_us,
+		   255 3357|nb_pei_ns,
+		   256 3361|new_england,
+		   257 3362|new_england,
+		   258 3374|west_mw_us,
+		   259 3375|west_mw_us,
+		   260 3383|nb_pei_ns,
+		   261 3384|ontario,
+		   262 3387|north_east_us,
+		   263 3394|north_east_us,
+		   264 33|west_us,
+		   265 3403|north_east_us,
+		   266 3404|qc_nf,
+		   267 3411|new_england,
+		   268 3413|new_england,
+		   269 3415|west_mw_us,
+		   270 3416|dc_adjacent,
+		   271 3417|dc_adjacent,
+		   272 3418|dc_adjacent,
+		   273 3419|dc_adjacent,
+		   274 3420|dc_adjacent,
+		   275 3421|dc_adjacent,
+		   276 3422|dc_adjacent,
+		   277 3463|ontario,
+		   278 3465|ontario,
+		   279 3469|ontario,
+		   280 3472|ontario,
+		   281 3480|ontario,
+		   282 3483|ontario,
+		   283 3485|ontario,
+		   284 3486|ontario,
+		   285 3487|ontario,
+		   286 3492|ontario,
+		   287 3493|ontario,
+		   288 3494|ontario,
+		   289 34|west_us,
+		   290 3570|dc_adjacent,
+		   291 3571|dc_adjacent,
+		   292 3572|west_mw_us,
+		   293 3573|west_mw_us,
+		   294 3575|north_east_us,
+		   295 3577|dc_adjacent,
+		   296 35|west_us,
+		   297 3652|bc_ab,
+		   298 3653|bc_ab,
+		   299 3654|bc_ab,
+		   300 3655|bc_ab,
+		   301 3656|bc_ab,
+		   302 3657|bc_ab,
+		   303 3658|bc_ab,
+		   304 3659|bc_ab,
+		   305 3660|bc_ab,
+		   306 3661|bc_ab,
+		   307 3662|bc_ab,
+		   308 3663|bc_ab,
+		   309 3665|bc_ab,
+		   310 3666|bc_ab,
+		   311 3667|bc_ab,
+		   312 3668|bc_ab,
+		   313 3670|bc_ab,
+		   314 3671|bc_ab,
+		   315 3672|bc_ab,
+		   316 3673|bc_ab,
+		   317 3674|bc_ab,
+		   318 3675|bc_ab,
+		   319 3676|bc_ab,
+		   320 3677|bc_ab,
+		   321 3678|bc_ab,
+		   322 3679|bc_ab,
+		   323 3680|bc_ab,
+		   324 3681|bc_ab,
+		   325 3682|bc_ab,
+		   326 3684|bc_ab,
+		   327 3685|bc_ab,
+		   328 3686|bc_ab,
+		   329 36|mainland_europe,
+		   330 397|new_england,
+		   331 3|north_east_us,
+		   332 40|mainland_europe,
+		   333 410|north_east_us,
+		   334 412|dc_adjacent,
+		   335 413|east_mw_us,
+		   336 415|dc_adjacent,
+		   337 416|new_england,
+		   338 417|new_england,
+		   339 41|mainland_europe,
+		   340 424|west_mw_us,
+		   341 426|east_mw_us,
+		   342 430|west_mw_us,
+		   343 431|east_mw_us,
+		   344 432|east_mw_us,
+		   345 433|east_mw_us,
+		   346 434|east_mw_us,
+		   347 43|mainland_europe,
+		   348 447|west_mw_us,
+		   349 448|west_mw_us,
+		   350 449|west_mw_us,
+		   351 454|west_mw_us,
+		   352 457|west_mw_us,
+		   353 458|west_mw_us,
+		   354 459|west_mw_us,
+		   355 45|mainland_europe,
+		   356 460|east_mw_us,
+		   357 46|mainland_europe,
+		   358 470|west_mw_us,
+		   359 472|dc_adjacent,
+		   360 47|mainland_europe,
+		   361 50|mainland_europe,
+		   362 545|new_england,
+		   363 548|new_england,
+		   364 549|new_england,
+		   365 554|new_england,
+		   366 555|new_england,
+		   367 560|new_england,
+		   368 563|new_england,
+		   369 573|north_east_us,
+		   370 577|north_east_us,
+		   371 578|north_east_us,
+		   372 579|north_east_us,
+		   373 582|north_east_us,
+		   374 585|north_east_us,
+		   375 587|north_east_us,
+		   376 588|north_east_us,
+		   377 593|north_east_us,
+		   378 595|north_east_us,
+		   379 608|north_east_us,
+		   380 614|north_east_us,
+		   381 616|north_east_us,
+		   382 621|north_east_us,
+		   383 626|north_east_us,
+		   384 641|north_east_us,
+		   385 646|north_east_us,
+		   386 648|north_east_us,
+		   387 651|north_east_us,
+		   388 671|north_east_us,
+		   389 679|new_england,
+		   390 689|new_england,
+		   391 700|new_england,
+		   392 701|new_england,
+		   393 720|new_england,
+		   394 730|new_england,
+		   395 738|north_east_us,
+		   396 742|new_england,
+		   397 743|new_england,
+		   398 766|new_england,
+		   399 76|north_east_us,
+		   400 785|north_east_us,
+		   401 786|north_east_us,
+		   402 793|new_england,
+		   403 798|new_england,
+		   404 79|north_east_us,
+		   405 7|north_east_us,
+		   406 801|new_england,
+		   407 832|north_east_us,
+		   408 840|north_east_us,
+		   409 845|north_east_us,
+		   410 857|new_england,
+		   411 865|bc_ab,
+		   412 866|manitoba,
+		   413 867|manitoba,
+		   414 869|manitoba,
+		   415 871|manitoba,
+		   416 872|nb_pei_ns,
+		   417 876|nb_pei_ns,
+		   418 877|nb_pei_ns,
+		   419 879|nb_pei_ns,
+		   420 881|nb_pei_ns,
+		   421 882|nb_pei_ns,
+		   422 883|nb_pei_ns,
+		   423 884|nb_pei_ns,
+		   424 885|qc_nf,
+		   425 889|nb_pei_ns,
+		   426 891|nb_pei_ns,
+		   427 893|nb_pei_ns,
+		   428 894|nb_pei_ns,
+		   429 896|nb_pei_ns,
+		   430 897|nb_pei_ns,
+		   431 899|nb_pei_ns,
+		   432 903|nb_pei_ns,
+		   433 904|nb_pei_ns,
+		   434 906|nb_pei_ns,
+		   435 908|nb_pei_ns,
+		   436 909|nb_pei_ns,
+		   437 913|ontario,
+		   438 914|ontario,
+		   439 916|ontario,
+		   440 917|ontario,
+		   441 923|ontario,
+		   442 928|ontario,
+		   443 943|ontario,
+		   444 953|ontario,
+		   445 96|north_east_us,
+		   446 972|ontario,
+		   447 974|ontario,
+		   448 978|nb_pei_ns,
+		   449 980|nb_pei_ns,
+		   450 982|nb_pei_ns,
+		   451 984|nb_pei_ns,
+		   452 987|nb_pei_ns,
+		   453 993|nb_pei_ns,
+		   454 994|nb_pei_ns,
+		   455 996|nb_pei_ns,
+		   456 998|nb_pei_ns
+;
+tree STATE_0 = [&posterior=-68613.27663547087] (((((((((1[&location="uk"]:1.2575368275271113E-4,344[&location="east_mw_us"]:1.2575368275271113E-4)[&location="uk"]:0.0020016885316133507,223[&location="uk"]:0.002127442214366062)[&location="uk"]:0.04247815875190173,((((22[&location="west_mw_us"]:0.0011420335778427526,341[&location="east_mw_us"]:0.0011420335778427526)[&location="west_mw_us"]:0.0038205197843841424,(89[&location="mainland_europe"]:4.952501154950088E-4,(248[&location="new_england"]:2.493628728169833E-4,376[&location="north_east_us"]:2.493628728169833E-4)[&location="north_east_us"]:2.458872426780255E-4)[&location="north_east_us"]:0.004467303246731886)[&location="west_mw_us"]:0.0021864633046688254,269[&location="west_mw_us"]:0.00714901666689572)[&location="west_mw_us"]:0.010000144818626513,96[&location="mainland_europe"]:0.017149161485522233)[&location="west_mw_us"]:0.027456439480745557)[&location="uk"]:0.004034410090710323,((((42[&location="west_us"]:1.2029968531646794E-4,153[&location="manitoba"]:1.2029968531646794E-4)[&location="manitoba"]:0.0046180736016461785,(196[&location="manitoba"]:9.930681057773307E-5,318[&location="bc_ab"]:9.930681057773307E-5)[&location="manitoba"]:0.004639066476384913)[&location="manitoba"]:0.0392287305027839,(60[&location="qc_nf"]:0.01233659154982484,(314[&location="bc_ab"]:0.008714960695934795,412[&location="manitoba"]:0.008714960695934795)[&location="manitoba"]:0.0036216308538900444)[&location="manitoba"]:0.03163051223992171)[&location="manitoba"]:0.0015966149116302328,((98[&location="mainland_europe"]:0.019514839351083495,((202[&location="uk"]:0.0018097850986860601,408[&location="north_east_us"]:0.0018097850986860601)[&location="uk"]:0.012778833077153889,(217[&location="uk"]:0.002776291659100441,307[&location="bc_ab"]:0.002776291659100441)[&location="uk"]:0.011812326516739509)[&location="uk"]:0.004926221175243545)[&location="uk"]:0.010150296898913894,((119[&location="west_us"]:0.0014892509017674347,345[&location="east_mw_us"]:0.0014892509017674347)[&location="east_mw_us"]:0.017215806048599708,(272[&location="dc_adjacent"]:0.003291741262767095,(279[&location="ontario"]:8.590801052058102E-4,334[&location="dc_adjacent"]:8.590801052058102E-4)[&location="dc_adjacent"]:0.002432661157561285)[&location="dc_adjacent"]:0.015413315687600048)[&location="dc_adjacent"]:0.010960079299630245)[&location="uk"]:0.01589858245137939)[&location="uk"]:0.0030762923556013344)[&location="uk"]:0.01803388300956052,(((((((((5[&location="mainland_europe"]:0.004502731734116314,(53[&location="qc_nf"]:0.001682889235790697,229[&location="uk"]:0.001682889235790697)[&location="qc_nf"]:0.0028198424983256172)[&location="qc_nf"]:0.004690511843162845,(15[&location="north_east_us"]:0.0010803209854838933,358[&location="west_mw_us"]:0.0010803209854838933)[&location="west_mw_us"]:0.008112922591795265)[&location="qc_nf"]:0.0035540491714309615,(57[&location="qc_nf"]:0.006337238935865531,(62[&location="east_mw_us"]:0.002736196270255306,(69[&location="east_mw_us"]:8.298513073551596E-4,215[&location="uk"]:8.298513073551596E-4)[&location="east_mw_us"]:0.0019063449629001467)[&location="east_mw_us"]:0.003601042665610225)[&location="qc_nf"]:0.006410053812844589)[&location="qc_nf"]:0.0013419339381377411,(357[&location="mainland_europe"]:0.007250769688560244,(384[&location="north_east_us"]:0.00407508203898363,394[&location="new_england"]:0.00407508203898363)[&location="north_east_us"]:0.003175687649576614)[&location="mainland_europe"]:0.006838456998287617)[&location="mainland_europe"]:0.0026565597555476255,((83[&location="manitoba"]:0.004122436086231694,(107[&location="mainland_europe"]:0.0037104473359563057,324[&location="bc_ab"]:0.0037104473359563057)[&location="mainland_europe"]:4.119887502753881E-4)[&location="mainland_europe"]:0.0015949554542053351,329[&location="mainland_europe"]:0.005717391540437029)[&location="mainland_europe"]:0.011028394901958458)[&location="mainland_europe"]:2.566517610703631E-4,(((139[&location="manitoba"]:2.847611218929808E-4,298[&location="bc_ab"]:2.847611218929808E-4)[&location="qc_nf"]:1.4843595567317318E-4,424[&location="qc_nf"]:4.33197077566154E-4)[&location="qc_nf"]:0.0021334974699529774,368[&location="new_england"]:0.002566694547519131)[&location="qc_nf"]:0.014435743655946718)[&location="mainland_europe"]:0.0012150737469609485,(41[&location="west_us"]:0.005617715900050975,(45[&location="west_us"]:0.0027996736773606293,(148[&location="ontario"]:0.0022571730294197708,398[&location="new_england"]:0.0022571730294197708)[&location="west_us"]:5.425006479408585E-4)[&location="west_us"]:0.002818042222690346)[&location="west_us"]:0.012599796050375823)[&location="mainland_europe"]:0.003539449044850377,(((64[&location="east_mw_us"]:7.391020673736201E-4,184[&location="ontario"]:7.391020673736201E-4)[&location="east_mw_us"]:0.005004596218058714,391[&location="new_england"]:0.005743698285432334)[&location="uk"]:0.006085690722688069,(((132[&location="qc_nf"]:0.004411762222413617,(199[&location="manitoba"]:0.0021868797087895024,203[&location="uk"]:0.0021868797087895024)[&location="uk"]:0.0022248825136241142)[&location="uk"]:3.0177484787239674E-4,(204[&location="uk"]:0.003198561314441251,(352[&location="west_mw_us"]:0.002796278723142411,365[&location="new_england"]:0.002796278723142411)[&location="uk"]:4.022825912988401E-4)[&location="uk"]:0.0015149757558447622)[&location="uk"]:0.0020392344627996736,214[&location="uk"]:0.006752771533085687)[&location="uk"]:0.005076617475034716)[&location="uk"]:0.009927571987156773)[&location="uk"]:0.0071561617753971955,(((26[&location="west_mw_us"]:3.322782715929196E-4,309[&location="bc_ab"]:3.322782715929196E-4)[&location="bc_ab"]:0.007125675691891704,440[&location="ontario"]:0.0074579539634846235)[&location="bc_ab"]:0.012236371113927598,((44[&location="west_us"]:3.4947260426906326E-4,(321[&location="bc_ab"]:2.583406365766043E-4,428[&location="nb_pei_ns"]:2.583406365766043E-4)[&location="bc_ab"]:9.113196769245898E-5)[&location="bc_ab"]:0.007018447885259738,(((54[&location="qc_nf"]:0.0012291607806564533,((178[&location="qc_nf"]:2.4760518695222467E-4,420[&location="nb_pei_ns"]:2.4760518695222467E-4)[&location="nb_pei_ns"]:5.019066846445678E-5,188[&location="nb_pei_ns"]:2.9779585541668145E-4)[&location="nb_pei_ns"]:9.313649252397718E-4)[&location="ontario"]:1.8657326307269838E-4,439[&location="ontario"]:0.0014157340437291517)[&location="ontario"]:0.0013172404544145382,328[&location="bc_ab"]:0.00273297449814369)[&location="bc_ab"]:0.004634945991385111)[&location="bc_ab"]:0.01232640458788342)[&location="bc_ab"]:0.00921879769326215)[&location="uk"]:0.03776077129586426)[&location="uk"]:0.03822618151271423,(((((10[&location="west_mw_us"]:0.004148451795863797,(23[&location="west_mw_us"]:0.00258850710728356,238[&location="west_us"]:0.00258850710728356)[&location="west_mw_us"]:0.0015599446885802368)[&location="west_mw_us"]:0.02046071122626207,((51[&location="qc_nf"]:0.001597651038876583,(275[&location="dc_adjacent"]:0.0012052579993593916,(292[&location="west_mw_us"]:5.063888657078986E-4,330[&location="new_england"]:5.063888657078986E-4)[&location="west_mw_us"]:6.98869133651493E-4)[&location="west_mw_us"]:3.923930395171914E-4)[&location="west_mw_us"]:0.0016521173043513033,(325[&location="bc_ab"]:1.1560860582400809E-4,353[&location="west_mw_us"]:1.1560860582400809E-4)[&location="west_mw_us"]:0.003134159737403878)[&location="west_mw_us"]:0.02135939467889798)[&location="west_mw_us"]:0.0082663889037351,(142[&location="manitoba"]:0.0028227840896800976,((240[&location="west_us"]:7.703912084837776E-4,241[&location="new_england"]:7.703912084837776E-4)[&location="new_england"]:5.350544448376412E-4,251[&location="new_england"]:0.0013054456533214188)[&location="new_england"]:0.0015173384363586788)[&location="manitoba"]:0.03005276783618087)[&location="manitoba"]:0.01719632790044716,((((36[&location="west_us"]:6.04511101227549E-4,84[&location="manitoba"]:6.04511101227549E-4)[&location="manitoba"]:4.8471651303461853E-4,293[&location="west_mw_us"]:0.0010892276142621675)[&location="manitoba"]:0.008944191747840032,(((38[&location="west_us"]:4.877564642919559E-4,195[&location="manitoba"]:4.877564642919559E-4)[&location="manitoba"]:1.0197153529724985E-4,351[&location="west_mw_us"]:5.897279995892057E-4)[&location="manitoba"]:0.0012909555247296368,158[&location="manitoba"]:0.0018806835243188424)[&location="manitoba"]:0.008152735837783356)[&location="manitoba"]:0.03843476607979185,((((70[&location="east_mw_us"]:6.475838797879266E-4,80[&location="manitoba"]:6.475838797879266E-4)[&location="manitoba"]:0.0053082342011056246,(115[&location="mainland_europe"]:0.004738285899831889,171[&location="qc_nf"]:0.004738285899831889)[&location="manitoba"]:0.0012175321810616625)[&location="manitoba"]:0.01152537280996372,(((157[&location="manitoba"]:0.001733700350021482,437[&location="ontario"]:0.001733700350021482)[&location="manitoba"]:6.464075967647319E-4,182[&location="manitoba"]:0.002380107946786214)[&location="manitoba"]:0.01357461972006779,416[&location="nb_pei_ns"]:0.015954727666854004)[&location="manitoba"]:0.001526463224003266)[&location="manitoba"]:0.03027998728485043,(88[&location="mainland_europe"]:0.010977024028778272,(((105[&location="mainland_europe"]:0.0015942498581623366,159[&location="manitoba"]:0.0015942498581623366)[&location="manitoba"]:0.004895757953809983,((316[&location="bc_ab"]:0.0035131978793584186,(407[&location="north_east_us"]:6.092857054717128E-4,455[&location="nb_pei_ns"]:6.092857054717128E-4)[&location="nb_pei_ns"]:0.0029039121738867056)[&location="nb_pei_ns"]:0.0016304789578263836,429[&location="nb_pei_ns"]:0.005143676837184802)[&location="nb_pei_ns"]:0.0013463309747875178)[&location="manitoba"]:0.0025169039346815535,181[&location="manitoba"]:0.009006911746653874)[&location="manitoba"]:0.001970112282124398)[&location="manitoba"]:0.036784154146929426)[&location="manitoba"]:7.070072661863464E-4)[&location="manitoba"]:0.0016036943844140797)[&location="manitoba"]:0.02306505948600756,((((49[&location="qc_nf"]:2.0414204480421542E-4,(261[&location="ontario"]:3.981153743008577E-5,444[&location="ontario"]:3.981153743008577E-5)[&location="ontario"]:1.6433050737412966E-4)[&location="ontario"]:0.0043307468550063555,(170[&location="ontario"]:2.7341107838620393E-4,253[&location="north_east_us"]:2.7341107838620393E-4)[&location="ontario"]:0.0042614778214243665)[&location="ontario"]:0.012006098383373128,(56[&location="qc_nf"]:0.00925772532502407,259[&location="west_mw_us"]:0.00925772532502407)[&location="qc_nf"]:0.007283261958159629)[&location="qc_nf"]:0.0037840933480599755,(295[&location="dc_adjacent"]:0.0022011006094496115,417[&location="nb_pei_ns"]:0.0022011006094496115)[&location="nb_pei_ns"]:0.018123980021794064)[&location="qc_nf"]:0.05281185868107201)[&location="manitoba"]:0.03176313626693718)[&location="uk"]:0.19256128645489118,(((((((((6[&location="west_mw_us"]:0.0012989734306924744,(136[&location="qc_nf"]:0.001256201377082625,189[&location="nb_pei_ns"]:0.001256201377082625)[&location="nb_pei_ns"]:4.2772053609849365E-5)[&location="nb_pei_ns"]:0.0024130087843559347,(164[&location="ontario"]:0.0016096293755904361,404[&location="north_east_us"]:0.0016096293755904361)[&location="ontario"]:0.002102352839457973)[&location="nb_pei_ns"]:0.0054624939611623395,448[&location="nb_pei_ns"]:0.009174476176210748)[&location="nb_pei_ns"]:0.003315199461567218,(43[&location="west_us"]:8.758870113116274E-4,99[&location="mainland_europe"]:8.758870113116274E-4)[&location="west_us"]:0.011613788626466339)[&location="nb_pei_ns"]:0.002932130485215125,(((109[&location="mainland_europe"]:1.2632633830223357E-4,233[&location="mainland_europe"]:1.2632633830223357E-4)[&location="mainland_europe"]:0.0020334181098591725,155[&location="manitoba"]:0.002159744448161406)[&location="nb_pei_ns"]:0.002630947635279697,(124[&location="west_mw_us"]:2.5048109197822033E-4,(302[&location="bc_ab"]:1.906527280599778E-4,449[&location="nb_pei_ns"]:1.906527280599778E-4)[&location="nb_pei_ns"]:5.982836391824254E-5)[&location="nb_pei_ns"]:0.0045402109914628825)[&location="nb_pei_ns"]:0.010631114039551987)[&location="nb_pei_ns"]:0.030923021344228536,(((68[&location="east_mw_us"]:0.0018509856902427172,(((91[&location="mainland_europe"]:3.978704052267133E-4,93[&location="mainland_europe"]:3.978704052267133E-4)[&location="mainland_europe"]:7.711701719586525E-4,(179[&location="ontario"]:7.717325329201407E-4,(254[&location="west_mw_us"]:3.5717138678038787E-4,333[&location="north_east_us"]:3.5717138678038787E-4)[&location="north_east_us"]:4.145611461397528E-4)[&location="north_east_us"]:3.9730804426522514E-4)[&location="north_east_us"]:4.536319231753963E-4,387[&location="north_east_us"]:0.001622672500360762)[&location="north_east_us"]:2.2831318988195516E-4)[&location="north_east_us"]:1.8587368542875653E-4,249[&location="new_england"]:0.0020368593756714738)[&location="north_east_us"]:0.013721847781819159,((226[&location="uk"]:0.0015507432004777564,234[&location="west_us"]:0.0015507432004777564)[&location="uk"]:0.001080727850028214,454[&location="nb_pei_ns"]:0.0026314710505059703)[&location="nb_pei_ns"]:0.013127236106984661)[&location="nb_pei_ns"]:0.030586120309730996)[&location="nb_pei_ns"]:0.04395181785018183,((((12[&location="west_mw_us"]:0.006505618416100019,((16[&location="west_mw_us"]:0.0015538729957844267,(40[&location="west_us"]:7.387437800570411E-5,112[&location="mainland_europe"]:7.387437800570411E-5)[&location="mainland_europe"]:0.0014799986177787227)[&location="west_mw_us"]:0.0038578858176268292,165[&location="ontario"]:0.005411758813411256)[&location="west_mw_us"]:0.0010938596026887635)[&location="west_mw_us"]:0.009706780802547683,((58[&location="qc_nf"]:0.002416961156687295,180[&location="manitoba"]:0.002416961156687295)[&location="manitoba"]:0.0022640458043386275,198[&location="manitoba"]:0.004681006961025923)[&location="manitoba"]:0.01153139225762178)[&location="manitoba"]:0.014098477575147109,(149[&location="manitoba"]:0.0010489808252869533,367[&location="new_england"]:0.0010489808252869533)[&location="manitoba"]:0.029261895968507857)[&location="manitoba"]:0.052786309940196036,(108[&location="mainland_europe"]:0.005649728266787608,(340[&location="west_mw_us"]:0.002675027822110288,446[&location="ontario"]:0.002675027822110288)[&location="west_mw_us"]:0.0029747004446773204)[&location="mainland_europe"]:0.07744745846720323)[&location="manitoba"]:0.007199458583412616)[&location="manitoba"]:0.017933196292011025,(((((((((11[&location="west_mw_us"]:5.309620794394282E-4,(147[&location="ontario"]:3.7185882973700456E-4,401[&location="north_east_us"]:3.7185882973700456E-4)[&location="ontario"]:1.5910324970242363E-4)[&location="ontario"]:0.004267697123332819,(231[&location="new_england"]:0.0015393200354801185,359[&location="dc_adjacent"]:0.0015393200354801185)[&location="dc_adjacent"]:0.003259339167292129)[&location="ontario"]:0.0011786003834119586,236[&location="west_us"]:0.005977259586184206)[&location="ontario"]:0.00882965327079845,123[&location="west_mw_us"]:0.014806912856982655)[&location="ontario"]:2.821721913967481E-4,(95[&location="mainland_europe"]:9.735744162205339E-4,266[&location="qc_nf"]:9.735744162205339E-4)[&location="qc_nf"]:0.01411551063215887)[&location="ontario"]:8.549633106339355E-4,(190[&location="nb_pei_ns"]:0.004068805880762244,278[&location="ontario"]:0.004068805880762244)[&location="ontario"]:0.011875242478251094)[&location="ontario"]:7.68821215487818E-4,(((19[&location="west_mw_us"]:0.0016336021491972653,331[&location="north_east_us"]:0.0016336021491972653)[&location="north_east_us"]:0.0013253537350923256,(168[&location="ontario"]:0.0011723551860464926,414[&location="manitoba"]:0.0011723551860464926)[&location="ontario"]:0.0017866006982430983)[&location="ontario"]:1.7069569029673406E-4,337[&location="new_england"]:0.003129651574586325)[&location="ontario"]:0.013583217999914831)[&location="ontario"]:0.08047693517283991,221[&location="uk"]:0.09718980474734107)[&location="uk"]:0.004158418922480381,172[&location="qc_nf"]:0.10134822366982145)[&location="uk"]:0.006881617939593035)[&location="uk"]:0.00615819166814531,((((((37[&location="west_us"]:0.0034253451579776516,(287[&location="ontario"]:0.0016714687286669356,297[&location="bc_ab"]:0.0016714687286669356)[&location="ontario"]:0.001753876429310716)[&location="ontario"]:4.716325105749413E-4,258[&location="west_mw_us"]:0.003896977668552593)[&location="ontario"]:0.00844597529702179,442[&location="ontario"]:0.012342952965574383)[&location="ontario"]:0.0073842370221274736,(((163[&location="ontario"]:6.884615364546547E-4,405[&location="north_east_us"]:6.884615364546547E-4)[&location="north_east_us"]:1.9659823034959994E-4,386[&location="north_east_us"]:8.850597668042546E-4)[&location="north_east_us"]:0.005792890315565463,336[&location="dc_adjacent"]:0.006677950082369717)[&location="dc_adjacent"]:0.01304923990533214)[&location="uk"]:0.012830926974654211,(((61[&location="east_mw_us"]:1.6679385084275014E-4,225[&location="uk"]:1.6679385084275014E-4)[&location="uk"]:0.0015673429747183824,216[&location="uk"]:0.0017341368255611325)[&location="uk"]:0.0036877969011209306,371[&location="north_east_us"]:0.005421933726682063)[&location="uk"]:0.027136183235674006)[&location="uk"]:0.023174120053796453,((161[&location="ontario"]:0.0036242380936839947,239[&location="new_england"]:0.0036242380936839947)[&location="new_england"]:0.015693612264163687,397[&location="new_england"]:0.019317850357847683)[&location="new_england"]:0.036414386658304834)[&location="uk"]:0.058655796261407274)[&location="uk"]:0.18307332875658422)[&location="uk"]:0.33229061318652503,(((((((((8[&location="north_east_us"]:6.247966612208594E-4,63[&location="east_mw_us"]:6.247966612208594E-4)[&location="north_east_us"]:1.106457052427413E-4,274[&location="dc_adjacent"]:7.354423664636007E-4)[&location="north_east_us"]:0.0014686775743982723,(255[&location="nb_pei_ns"]:0.001051818442792281,399[&location="north_east_us"]:0.001051818442792281)[&location="north_east_us"]:0.0011523014980695918)[&location="north_east_us"]:0.002868540376183131,((128[&location="qc_nf"]:0.002225137047128914,227[&location="uk"]:0.002225137047128914)[&location="qc_nf"]:1.7676728377757824E-4,350[&location="west_mw_us"]:0.002401904330906492)[&location="qc_nf"]:0.0026707559861385115)[&location="qc_nf"]:9.214155685793755E-4,(117[&location="ontario"]:0.0021910303874244884,151[&location="manitoba"]:0.0021910303874244884)[&location="manitoba"]:0.0038030454981998908)[&location="qc_nf"]:0.0040447625759830255,85[&location="nb_pei_ns"]:0.010038838461607405)[&location="qc_nf"]:0.006654031709227152,((14[&location="west_mw_us"]:0.009493454112533982,((92[&location="mainland_europe"]:0.0020265297980348812,383[&location="north_east_us"]:0.0020265297980348812)[&location="north_east_us"]:0.005570431362668065,((268[&location="new_england"]:0.0022389122271049703,385[&location="north_east_us"]:0.0022389122271049703)[&location="north_east_us"]:0.001427846024127313,346[&location="east_mw_us"]:0.0036667582512322832)[&location="north_east_us"]:0.003930202909470663)[&location="north_east_us"]:0.0018964929518310364)[&location="qc_nf"]:0.005985155577775833,174[&location="qc_nf"]:0.015478609690309815)[&location="qc_nf"]:0.0012142604805247415)[&location="qc_nf"]:0.008717035414116711,(131[&location="qc_nf"]:0.0018488706434810686,(379[&location="north_east_us"]:4.598247666567323E-4,418[&location="nb_pei_ns"]:4.598247666567323E-4)[&location="north_east_us"]:0.0013890458768243364)[&location="qc_nf"]:0.0235610349414702)[&location="qc_nf"]:0.23533695970360885,(((((29[&location="west_us"]:8.427766976561858E-4,369[&location="north_east_us"]:8.427766976561858E-4)[&location="north_east_us"]:0.00363485171244056,(185[&location="nb_pei_ns"]:0.0034372146612146027,288[&location="ontario"]:0.0034372146612146027)[&location="nb_pei_ns"]:0.001040413748882143)[&location="nb_pei_ns"]:0.006178394778148218,(127[&location="qc_nf"]:0.0022589511011310622,451[&location="nb_pei_ns"]:0.0022589511011310622)[&location="nb_pei_ns"]:0.008397072087113901)[&location="nb_pei_ns"]:5.970620583137503E-4,(299[&location="bc_ab"]:0.005110240594996254,403[&location="new_england"]:0.005110240594996254)[&location="new_england"]:0.00614284465156246)[&location="nb_pei_ns"]:0.14295405747031045,((((((33[&location="west_us"]:0.004973715873896042,413[&location="manitoba"]:0.004973715873896042)[&location="mainland_europe"]:0.0040422611940144695,((90[&location="mainland_europe"]:1.9712299307683047E-4,301[&location="bc_ab"]:1.9712299307683047E-4)[&location="mainland_europe"]:2.461854467820055E-4,205[&location="uk"]:4.4330843985883594E-4)[&location="mainland_europe"]:0.008572668628051675)[&location="mainland_europe"]:0.014093459294322989,(72[&location="east_mw_us"]:0.005007678262369625,213[&location="uk"]:0.005007678262369625)[&location="uk"]:0.018101758099863877)[&location="mainland_europe"]:0.026846938768190224,(((((((34[&location="west_us"]:8.888653463762715E-4,421[&location="nb_pei_ns"]:8.888653463762715E-4)[&location="nb_pei_ns"]:0.002436888153864092,432[&location="nb_pei_ns"]:0.0033257535002403633)[&location="nb_pei_ns"]:4.1589053877740933E-4,219[&location="uk"]:0.0037416440390177727)[&location="nb_pei_ns"]:0.005184350737261785,((82[&location="manitoba"]:3.432939848266735E-5,332[&location="mainland_europe"]:3.432939848266735E-5)[&location="mainland_europe"]:7.102041398550048E-5,242[&location="new_england"]:1.0534981246816783E-4)[&location="mainland_europe"]:0.008820644963811389)[&location="mainland_europe"]:9.3458870691214E-4,264[&location="west_us"]:0.009860583483191698)[&location="mainland_europe"]:0.001305226967295318,(66[&location="west_mw_us"]:0.002314956257427368,103[&location="mainland_europe"]:0.002314956257427368)[&location="mainland_europe"]:0.008850854193059648)[&location="mainland_europe"]:0.004830630121458733,411[&location="bc_ab"]:0.01599644057194575)[&location="mainland_europe"]:0.033959934558477976)[&location="mainland_europe"]:0.00377022223536181,(((39[&location="west_us"]:0.010266338287457693,((252[&location="new_england"]:0.001100125382799158,(354[&location="west_mw_us"]:4.9678254939282874E-5,400[&location="north_east_us"]:4.9678254939282874E-5)[&location="north_east_us"]:0.0010504471278598752)[&location="north_east_us"]:0.005403069482506158,((265[&location="north_east_us"]:0.001451333485413973,315[&location="bc_ab"]:0.001451333485413973)[&location="north_east_us"]:0.0017115354569950689,289[&location="west_us"]:0.003162868942409042)[&location="west_us"]:0.0033403259228962745)[&location="west_us"]:0.0037631434221523765)[&location="west_us"]:0.005591620353211677,50[&location="qc_nf"]:0.01585795864066937)[&location="qc_nf"]:0.0230105236795815,129[&location="qc_nf"]:0.03886848232025087)[&location="qc_nf"]:0.014858115045534664)[&location="qc_nf"]:0.008241221314132664,173[&location="qc_nf"]:0.0619678186799182)[&location="qc_nf"]:0.09223932403695097)[&location="qc_nf"]:0.10653972257169095)[&location="qc_nf"]:0.36900510993210894)[&location="qc_nf"]:3.165340449153862,((((((((((((2[&location="uk"]:0.002041378350362675,(176[&location="qc_nf"]:6.832250488493269E-4,218[&location="uk"]:6.832250488493269E-4)[&location="uk"]:0.001358153301513348)[&location="uk"]:0.0035284396779069562,363[&location="new_england"]:0.005569818028269631)[&location="new_england"]:7.893766511310419E-4,(260[&location="nb_pei_ns"]:0.0036283109889928707,415[&location="manitoba"]:0.0036283109889928707)[&location="manitoba"]:0.0027308836904078025)[&location="new_england"]:4.315087542466102E-4,246[&location="new_england"]:0.006790703433647283)[&location="new_england"]:0.0072628214051266415,(24[&location="west_mw_us"]:0.0026080295663384193,59[&location="qc_nf"]:0.0026080295663384193)[&location="west_mw_us"]:0.011445495272435505)[&location="new_england"]:0.002805195390314841,(((25[&location="west_mw_us"]:9.25287429909131E-5,431[&location="nb_pei_ns"]:9.25287429909131E-5)[&location="west_mw_us"]:0.004684375688620949,47[&location="west_us"]:0.004776904431611862)[&location="manitoba"]:0.0027255763669873662,194[&location="manitoba"]:0.007502480798599228)[&location="manitoba"]:0.009356239430489539)[&location="manitoba"]:0.006641342949867766,((3[&location="mainland_europe"]:0.0017027169918917503,71[&location="east_mw_us"]:0.0017027169918917503)[&location="manitoba"]:3.7892565342421036E-4,156[&location="manitoba"]:0.0020816426453159607)[&location="manitoba"]:0.02141842053364057)[&location="manitoba"]:0.10686501149736338,(((((((7[&location="west_mw_us"]:0.0011276067350106684,193[&location="manitoba"]:0.0011276067350106684)[&location="west_mw_us"]:0.014025065329336422,((122[&location="west_mw_us"]:7.227267484948403E-4,323[&location="bc_ab"]:7.227267484948403E-4)[&location="west_mw_us"]:0.001457729150908946,456[&location="nb_pei_ns"]:0.0021804558994037862)[&location="west_mw_us"]:0.012972216164943304)[&location="west_mw_us"]:0.021404476153404996,(((20[&location="west_mw_us"]:0.011407931074262774,(237[&location="west_us"]:0.0016273102399652001,381[&location="north_east_us"]:0.0016273102399652001)[&location="north_east_us"]:0.009780620834297574)[&location="west_mw_us"]:0.003279197732991908,(46[&location="west_us"]:0.008501800788429752,(317[&location="bc_ab"]:0.005751769388003105,361[&location="mainland_europe"]:0.005751769388003105)[&location="mainland_europe"]:0.0027500314004266476)[&location="mainland_europe"]:0.00618532801882493)[&location="west_mw_us"]:0.018122965277994896,(((114[&location="mainland_europe"]:0.0013599946712533305,443[&location="ontario"]:0.0013599946712533305)[&location="mainland_europe"]:0.004794229720782861,410[&location="new_england"]:0.0061542243920361915)[&location="new_england"]:0.016340925214527586,220[&location="uk"]:0.022495149606563777)[&location="west_mw_us"]:0.010314944478685799)[&location="west_mw_us"]:0.0037470541325025086)[&location="west_mw_us"]:0.009285248904468406,((75[&location="west_mw_us"]:0.0036230109453797704,(372[&location="north_east_us"]:3.935855905874348E-4,378[&location="north_east_us"]:3.935855905874348E-4)[&location="north_east_us"]:0.0032294253547923354)[&location="west_mw_us"]:0.029302768576901853,(118[&location="manitoba"]:5.773190826352505E-4,285[&location="ontario"]:5.773190826352505E-4)[&location="ontario"]:0.03234846043964637)[&location="west_mw_us"]:0.012916617599938868)[&location="west_mw_us"]:0.0029269106075178603,(187[&location="nb_pei_ns"]:1.1339301482167556E-4,308[&location="bc_ab"]:1.1339301482167556E-4)[&location="nb_pei_ns"]:0.048655914714916676)[&location="north_east_us"]:0.009224328711926938,((((((((((28[&location="west_us"]:7.746252030429479E-4,294[&location="north_east_us"]:7.746252030429479E-4)[&location="north_east_us"]:2.1984673836666945E-4,167[&location="ontario"]:9.944719414096174E-4)[&location="north_east_us"]:0.002078738283448795,81[&location="manitoba"]:0.0030732102248584125)[&location="north_east_us"]:0.0026217089827772406,((65[&location="east_mw_us"]:0.0010509981027791403,271[&location="dc_adjacent"]:0.0010509981027791403)[&location="east_mw_us"]:5.466444873548E-4,67[&location="east_mw_us"]:0.0015976425901339402)[&location="east_mw_us"]:0.004097276617501713)[&location="north_east_us"]:0.002569412676176875,438[&location="ontario"]:0.008264331883812528)[&location="north_east_us"]:0.0018373797015704928,144[&location="qc_nf"]:0.010101711585383021)[&location="north_east_us"]:0.00230290099853883,((101[&location="mainland_europe"]:3.1663498575353917E-4,395[&location="north_east_us"]:3.1663498575353917E-4)[&location="north_east_us"]:0.007676011511433458,((111[&location="mainland_europe"]:0.0015057111354783764,146[&location="qc_nf"]:0.0015057111354783764)[&location="mainland_europe"]:0.0016018884951519736,380[&location="north_east_us"]:0.00310759963063035)[&location="north_east_us"]:0.004885046866556647)[&location="north_east_us"]:0.0044119660867348535)[&location="north_east_us"]:0.001304664684614371,(55[&location="qc_nf"]:0.003071202979541399,262[&location="north_east_us"]:0.003071202979541399)[&location="north_east_us"]:0.010638074288994822)[&location="north_east_us"]:0.006267008058618876,425[&location="nb_pei_ns"]:0.019976285327155098)[&location="north_east_us"]:0.009548377216266973,(((113[&location="mainland_europe"]:0.0026199664093285056,319[&location="bc_ab"]:0.0026199664093285056)[&location="north_east_us"]:0.003081685181065166,374[&location="north_east_us"]:0.005701651590393672)[&location="north_east_us"]:0.0019672608941437636,(256[&location="new_england"]:0.006467388333240708,(322[&location="bc_ab"]:4.144328438733751E-5,382[&location="north_east_us"]:4.144328438733751E-5)[&location="north_east_us"]:0.00642594504885337)[&location="north_east_us"]:0.0012015241512967276)[&location="north_east_us"]:0.021855750058884637)[&location="north_east_us"]:0.028468973898243218)[&location="north_east_us"]:0.02029998064464017,((((134[&location="qc_nf"]:0.0030571461805883712,375[&location="north_east_us"]:0.0030571461805883712)[&location="qc_nf"]:0.006545360300164012,((211[&location="uk"]:0.0031720817617235005,283[&location="ontario"]:0.0031720817617235005)[&location="new_england"]:2.0955959784034906E-4,((250[&location="new_england"]:8.989784049687632E-4,402[&location="new_england"]:8.989784049687632E-4)[&location="new_england"]:0.0010735925429878842,273[&location="dc_adjacent"]:0.0019725709479566475)[&location="new_england"]:0.001409070411607202)[&location="new_england"]:0.006220865121188533)[&location="new_england"]:0.001581531490193194,300[&location="bc_ab"]:0.011184037970945577)[&location="new_england"]:0.004961167121152995,(191[&location="nb_pei_ns"]:0.002615760577646127,393[&location="new_england"]:0.002615760577646127)[&location="new_england"]:0.013529444514452444)[&location="new_england"]:0.062148411994206884)[&location="north_east_us"]:0.052071457590014456)[&location="north_east_us"]:0.06069747004078049,(((21[&location="west_mw_us"]:0.0035593460779407803,(31[&location="west_us"]:0.0027072013168775305,390[&location="new_england"]:0.0027072013168775305)[&location="west_us"]:8.521447610632497E-4)[&location="west_us"]:0.0012143837023873612,(27[&location="west_us"]:0.0036592012040119965,((104[&location="mainland_europe"]:0.001465950933158408,452[&location="nb_pei_ns"]:0.001465950933158408)[&location="nb_pei_ns"]:0.0016619594104289015,427[&location="nb_pei_ns"]:0.0031279103435873095)[&location="nb_pei_ns"]:5.31290860424687E-4)[&location="west_us"]:0.001114528576316145)[&location="west_us"]:0.042287413451370874,((((30[&location="west_us"]:3.9664785936076676E-4,296[&location="west_us"]:3.9664785936076676E-4)[&location="west_us"]:0.0033164796535322004,284[&location="ontario"]:0.0037131275128929673)[&location="west_us"]:0.003940203890397502,276[&location="dc_adjacent"]:0.007653331403290469)[&location="west_us"]:0.019494779648211513,(76[&location="east_mw_us"]:0.011198238441731553,(135[&location="qc_nf"]:0.004892248421938996,150[&location="manitoba"]:0.004892248421938996)[&location="qc_nf"]:0.006305990019792557)[&location="east_mw_us"]:0.01594987260977043)[&location="west_us"]:0.01991303218019703)[&location="west_us"]:0.1440014014854014)[&location="north_east_us"]:0.031517809506209665,((((((13[&location="west_mw_us"]:3.9952900471425506E-4,(228[&location="uk"]:3.3679256983267273E-4,291[&location="dc_adjacent"]:3.3679256983267273E-4)[&location="uk"]:6.273643488158233E-5)[&location="uk"]:0.0019418163291563795,201[&location="uk"]:0.0023413453338706346)[&location="uk"]:0.007992822587050662,(((73[&location="east_mw_us"]:0.0015028605816606708,((145[&location="qc_nf"]:0.0012182342519784072,(355[&location="mainland_europe"]:3.59031526005501E-4,392[&location="new_england"]:3.59031526005501E-4)[&location="new_england"]:8.592027259729062E-4)[&location="uk"]:1.820679114169579E-4,207[&location="uk"]:0.0014003021633953651)[&location="uk"]:1.0255841826530563E-4)[&location="uk"]:0.0025210711376989145,312[&location="bc_ab"]:0.0040239317193595855)[&location="uk"]:0.005753427767336776,(441[&location="ontario"]:0.0030230456789402203,453[&location="nb_pei_ns"]:0.0030230456789402203)[&location="nb_pei_ns"]:0.006754313807756141)[&location="uk"]:5.568084342249344E-4)[&location="uk"]:4.4906730694405615E-4,224[&location="uk"]:0.010783235227865352)[&location="uk"]:0.00764047599407071,(((52[&location="qc_nf"]:4.977474430186715E-4,304[&location="bc_ab"]:4.977474430186715E-4)[&location="bc_ab"]:0.0019168611613032105,286[&location="ontario"]:0.002414608604321882)[&location="ontario"]:8.861936340018258E-4,(277[&location="ontario"]:0.0013400123774398728,409[&location="north_east_us"]:0.0013400123774398728)[&location="ontario"]:0.001960789860883835)[&location="ontario"]:0.015122908983612354)[&location="uk"]:0.04113261848419011,(((106[&location="mainland_europe"]:0.0016821615042646842,(192[&location="manitoba"]:0.0011911521286718243,377[&location="north_east_us"]:0.0011911521286718243)[&location="north_east_us"]:4.910093755928599E-4)[&location="north_east_us"]:2.3607229603613065E-4,326[&location="bc_ab"]:0.0019182338003008149)[&location="north_east_us"]:0.016862186614313136,(373[&location="north_east_us"]:0.00465329789166491,388[&location="north_east_us"]:0.00465329789166491)[&location="north_east_us"]:0.01412712252294904)[&location="north_east_us"]:0.040775909291512216)[&location="north_east_us"]:0.1630240245171839)[&location="north_east_us"]:0.20363048821879864,(((((((9[&location="west_mw_us"]:0.0021790883072788482,267[&location="new_england"]:0.0021790883072788482)[&location="new_england"]:0.002144169131130952,130[&location="qc_nf"]:0.0043232574384098)[&location="new_england"]:0.017165771758789798,232[&location="west_us"]:0.021489029197199597)[&location="new_england"]:0.052425763909558415,((97[&location="mainland_europe"]:0.0011348909870334215,366[&location="new_england"]:0.0011348909870334215)[&location="new_england"]:0.021432391997950127,((186[&location="nb_pei_ns"]:0.002458554831021744,222[&location="uk"]:0.002458554831021744)[&location="uk"]:0.012691184194197087,(206[&location="uk"]:0.006494184012592751,362[&location="new_england"]:0.006494184012592751)[&location="uk"]:0.00865555501262608)[&location="uk"]:0.0074175439597647195)[&location="new_england"]:0.051347510121774464)[&location="new_england"]:0.02502957550440199,263[&location="north_east_us"]:0.09894436861116)[&location="new_england"]:0.015758971592249496,(((((((17[&location="west_mw_us"]:0.005259534122698876,169[&location="ontario"]:0.005259534122698876)[&location="bc_ab"]:0.00826175332830487,(((209[&location="uk"]:0.0044486018859903045,445[&location="north_east_us"]:0.0044486018859903045)[&location="uk"]:0.0027696737147376938,434[&location="nb_pei_ns"]:0.007218275600727998)[&location="bc_ab"]:0.005742356185891485,320[&location="bc_ab"]:0.012960631786619483)[&location="bc_ab"]:5.606556643842631E-4)[&location="bc_ab"]:0.0020587458745130547,(48[&location="qc_nf"]:7.422307792818932E-4,(121[&location="east_mw_us"]:1.6741822658971052E-4,212[&location="uk"]:1.6741822658971052E-4)[&location="uk"]:5.748125526921827E-4)[&location="uk"]:0.014837802546234909)[&location="bc_ab"]:0.002883563939907151,(327[&location="bc_ab"]:0.0040808966356319165,343[&location="east_mw_us"]:0.0040808966356319165)[&location="bc_ab"]:0.014382700629792036)[&location="bc_ab"]:0.009762725493712581,116[&location="manitoba"]:0.028226322759136533)[&location="nb_pei_ns"]:0.004464770851661578,(110[&location="mainland_europe"]:0.002370093454249464,422[&location="nb_pei_ns"]:0.002370093454249464)[&location="nb_pei_ns"]:0.030321000156548646)[&location="nb_pei_ns"]:0.052071656283726314,(((32[&location="west_us"]:8.334135391228172E-4,281[&location="ontario"]:8.334135391228172E-4)[&location="ontario"]:0.004897437228648457,208[&location="uk"]:0.0057308507677712745)[&location="ontario"]:0.005949048685602563,((154[&location="manitoba"]:2.980499430485172E-4,(210[&location="uk"]:7.981334139767442E-5,347[&location="mainland_europe"]:7.981334139767442E-5)[&location="uk"]:2.1823660165084277E-4)[&location="manitoba"]:0.0074510609962693646,((160[&location="ontario"]:0.0014632647290532433,435[&location="nb_pei_ns"]:0.0014632647290532433)[&location="ontario"]:0.0034447906135687436,282[&location="ontario"]:0.004908055342621987)[&location="ontario"]:0.0028410555966958953)[&location="ontario"]:0.003930788514055955)[&location="ontario"]:0.07308285044115059)[&location="new_england"]:0.029940590308885073)[&location="new_england"]:0.03217786320219421,(((77[&location="qc_nf"]:0.0014465376861045424,290[&location="dc_adjacent"]:0.0014465376861045424)[&location="qc_nf"]:0.055505123108365154,((245[&location="new_england"]:0.0016469618520123278,433[&location="nb_pei_ns"]:0.0016469618520123278)[&location="new_england"]:0.05410221607158458,430[&location="nb_pei_ns"]:0.05574917792359691)[&location="new_england"]:0.0012024828708727814)[&location="new_england"]:0.010001458003328474,396[&location="new_england"]:0.06695311879779817)[&location="new_england"]:0.07992808460780554)[&location="new_england"]:0.279329639036505)[&location="bc_ab"]:0.13837352435003059,(((((((4[&location="west_us"]:0.00263311990460667,310[&location="bc_ab"]:0.00263311990460667)[&location="bc_ab"]:0.0026837204164549488,(162[&location="ontario"]:8.064610267230105E-4,247[&location="west_us"]:8.064610267230105E-4)[&location="ontario"]:0.004510379294338608)[&location="bc_ab"]:0.00408700503880757,((126[&location="qc_nf"]:0.0010377286781221456,230[&location="uk"]:0.0010377286781221456)[&location="uk"]:0.001333179011271932,313[&location="bc_ab"]:0.0023709076893940776)[&location="bc_ab"]:0.007032937670475112)[&location="bc_ab"]:2.5229318550034317E-4,356[&location="east_mw_us"]:0.009656138545369532)[&location="bc_ab"]:0.0026807824086665724,((35[&location="west_us"]:0.0021373206448635404,360[&location="mainland_europe"]:0.0021373206448635404)[&location="west_us"]:0.002365976844145918,305[&location="bc_ab"]:0.004503297489009459)[&location="bc_ab"]:0.007833623465026647)[&location="bc_ab"]:0.21610128589059177,(((94[&location="mainland_europe"]:0.003768647929662875,143[&location="qc_nf"]:0.003768647929662875)[&location="bc_ab"]:0.008229432155496725,306[&location="bc_ab"]:0.0119980800851596)[&location="bc_ab"]:0.019297852135752375,(303[&location="bc_ab"]:3.4598227241195063E-4,342[&location="west_mw_us"]:3.4598227241195063E-4)[&location="bc_ab"]:0.030949949948500022)[&location="bc_ab"]:0.1971422746237159)[&location="bc_ab"]:0.24297526367687275,(((((18[&location="west_mw_us"]:9.327467201128382E-4,197[&location="manitoba"]:9.327467201128382E-4)[&location="manitoba"]:0.00651349933776213,419[&location="nb_pei_ns"]:0.007446246057874968)[&location="manitoba"]:0.02181467696421714,((79[&location="manitoba"]:0.004041946760478306,335[&location="east_mw_us"]:0.004041946760478306)[&location="manitoba"]:0.02203781243389859,(((((100[&location="mainland_europe"]:3.757695495205315E-4,183[&location="manitoba"]:3.757695495205315E-4)[&location="mainland_europe"]:7.937622432062307E-4,339[&location="mainland_europe"]:0.0011695317927267622)[&location="mainland_europe"]:0.0021628083071256474,(((((140[&location="manitoba"]:3.305037477285264E-4,406[&location="new_england"]:3.305037477285264E-4)[&location="new_england"]:4.3420836282700824E-4,423[&location="nb_pei_ns"]:7.647121105555346E-4)[&location="new_england"]:0.0012279332868917374,244[&location="new_england"]:0.001992645397447272)[&location="new_england"]:6.449627485892082E-4,349[&location="west_mw_us"]:0.0026376081460364803)[&location="new_england"]:3.825039145785654E-4,(166[&location="ontario"]:7.046417857762364E-4,450[&location="nb_pei_ns"]:7.046417857762364E-4)[&location="nb_pei_ns"]:0.0023154702748388093)[&location="new_england"]:3.122280392373637E-4)[&location="new_england"]:0.006322381249102487,389[&location="new_england"]:0.009654721348954896)[&location="new_england"]:0.01494192789681125,133[&location="qc_nf"]:0.024596649245766145)[&location="manitoba"]:0.0014831099486107523)[&location="manitoba"]:0.0031811638277152096)[&location="manitoba"]:0.00978466916424612,(87[&location="mainland_europe"]:0.032976416392765155,(((120[&location="dc_adjacent"]:0.002504505120209535,(125[&location="west_us"]:6.74319370355294E-4,137[&location="qc_nf"]:6.74319370355294E-4)[&location="qc_nf"]:0.0018301857498542408)[&location="qc_nf"]:0.007898288665930515,348[&location="west_mw_us"]:0.010402793786140051)[&location="qc_nf"]:0.0121453872647142,(152[&location="manitoba"]:0.0020120045439927727,257[&location="new_england"]:0.0020120045439927727)[&location="manitoba"]:0.02053617650686148)[&location="manitoba"]:0.010428235341910903)[&location="manitoba"]:0.006069175793573071)[&location="manitoba"]:0.04720760041360135,((((((74[&location="east_mw_us"]:1.4541210518500362E-4,235[&location="west_us"]:1.4541210518500362E-4)[&location="east_mw_us"]:5.131410779772965E-5,426[&location="nb_pei_ns"]:1.9672621298273327E-4)[&location="east_mw_us"]:0.0014923020461498375,338[&location="new_england"]:0.0016890282591325706)[&location="new_england"]:0.0014191731000704796,138[&location="manitoba"]:0.0031082013592030502)[&location="manitoba"]:0.005443952610754789,(141[&location="manitoba"]:2.765225086755937E-5,311[&location="bc_ab"]:2.765225086755937E-5)[&location="manitoba"]:0.00852450171909028)[&location="manitoba"]:0.030226775100627917,(((((78[&location="ontario"]:0.0013936138367149648,177[&location="qc_nf"]:0.0013936138367149648)[&location="ontario"]:0.001677480278993749,370[&location="north_east_us"]:0.003071094115708714)[&location="ontario"]:0.006366685568996448,(((86[&location="nb_pei_ns"]:3.532993013063073E-4,364[&location="new_england"]:3.532993013063073E-4)[&location="new_england"]:0.001110988113024784,175[&location="qc_nf"]:0.0014642874143310912)[&location="new_england"]:0.00402309520313201,(((102[&location="mainland_europe"]:9.007783868593118E-5,200[&location="north_east_us"]:9.007783868593118E-5)[&location="mainland_europe"]:0.0019210779737681661,243[&location="new_england"]:0.002011155812454097)[&location="mainland_europe"]:0.0011771129318476747,280[&location="ontario"]:0.003188268744301772)[&location="ontario"]:0.0022991138731613295)[&location="ontario"]:0.00395039706724206)[&location="ontario"]:0.0018149197929990587,270[&location="dc_adjacent"]:0.01125269947770422)[&location="ontario"]:0.00440947405120839,(436[&location="nb_pei_ns"]:0.0038259856700405136,447[&location="ontario"]:0.0038259856700405136)[&location="ontario"]:0.011836187858872096)[&location="ontario"]:0.023116755541673147)[&location="manitoba"]:0.04747426352935382)[&location="manitoba"]:0.38516027792156105)[&location="bc_ab"]:0.09317089627063868)[&location="bc_ab"]:3.230508057582392)[&location="ontario"]:0.0;

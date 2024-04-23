@@ -1,0 +1,457 @@
+id	isolate	country	continent	group	group_2	region	state	species	year	source	detailed_source	location	comments	date_entered	datestamp	clpA	clpX	nifS	pepX	pyrG	recG	rplB	uvrA	ST (MLST)
+865	AB07-3	Canada	North America	bc_ab	NA_west	Edmonton	AB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	8	1	1	14	2	16	1	10	300
+3652	S02	Canada	North America	bc_ab	NA_west	Fraser Valley	BC	Borrelia burgdorferi sensu stricto	1993	tick	Ixodes pacificus			1/9/2024	3/5/2024	2	2	1	2	2	2	2	2	16
+3653	S03	Canada	North America	bc_ab	NA_west	Fraser Valley	BC	Borrelia burgdorferi sensu stricto	1993	tick	Ixodes pacificus			1/9/2024	3/5/2024	2	2	1	2	2	2	2	2	16
+3654	S04	Canada	North America	bc_ab	NA_west	Squamish	BC	Borrelia burgdorferi sensu stricto	1993	tick	Ixodes angustus			1/9/2024	3/5/2024	4	4	3	3	3	21	6	3	43
+3655	S05	Canada	North America	bc_ab	NA_west	Sunshine Coast	BC	Borrelia burgdorferi sensu stricto	1993	tick	Ixodes pacificus			1/9/2024	3/5/2024	6	1	114	140	1	7	4	11	408
+3656	S06	Canada	North America	bc_ab	NA_west	Sunshine Coast	BC	Borrelia burgdorferi sensu stricto	1993	tick	Ixodes pacificus			1/9/2024	3/5/2024	8	1	15	120	1	18	1	7	333
+3657	S08	Canada	North America	bc_ab	NA_west	Howe Sound	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes angustus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3658	S09	Canada	North America	bc_ab	NA_west	Sunshine Coast	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes angustus			1/9/2024	3/5/2024	1	291	1	1	1	1	279	1	1122
+3659	S10	Canada	North America	bc_ab	NA_west	Burnaby	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3660	S11	Canada	North America	bc_ab	NA_west	Squamish	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes pacificus			1/9/2024	3/5/2024	18	12	1	11	2	15	1	2	29
+3661	S12	Canada	North America	bc_ab	NA_west	Langley	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes pacificus			1/9/2024	3/5/2024	6	1	114	140	1	7	4	11	408
+3662	S13	Canada	North America	bc_ab	NA_west	Vancouver Island	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3663	S14	Canada	North America	bc_ab	NA_west	Mid-Island	BC	Borrelia burgdorferi sensu stricto	1994	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3665	S16	Canada	North America	bc_ab	NA_west	Gulf Island	BC	Borrelia burgdorferi sensu stricto	1995	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3666	S17	Canada	North America	bc_ab	NA_west	Vancouver Island	BC	Borrelia burgdorferi sensu stricto	1995	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3667	S18	Canada	North America	bc_ab	NA_west	Vancouver Island	BC	Borrelia burgdorferi sensu stricto	1995	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	1	1	1	1	279	1	1121
+3668	S19	Canada	North America	bc_ab	NA_west	Coast Mountain	BC	Borrelia burgdorferi sensu stricto	1996	tick	Ixodes angustus			1/9/2024	3/5/2024	1	291	1	1	1	1	279	1	1122
+3670	S21	Canada	North America	bc_ab	NA_west	Fraser Valley	BC	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes pacificus			1/9/2024	3/5/2024	128	3	2	4	3	4	4	4	317
+3671	S22	Canada	North America	bc_ab	NA_west	Coquitlam	BC	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes pacificus			1/9/2024	3/6/2024	5	5	260	8	1	5	6	127	1131
+3672	S23	Canada	North America	bc_ab	NA_west	Coquitlam	BC	Borrelia burgdorferi sensu stricto	1997	animal host	Apodemus sylvaticus Tissue Culture			1/9/2024	3/5/2024	5	5	260	8	1	5	6	127	1131
+3673	S24	Canada	North America	bc_ab	NA_west	Port Moody	BC	Borrelia burgdorferi sensu stricto	1997	animal host	Apodemus sylvaticus Tissue Culture			1/9/2024	3/5/2024	128	3	2	4	3	4	4	4	317
+3674	S25	Canada	North America	bc_ab	NA_west	Gulf Island	BC	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes pacificus			1/9/2024	3/6/2024	5	5	260	8	1	5	6	127	1131
+3675	S27	Canada	North America	bc_ab	NA_west	Howe Sound	BC	Borrelia burgdorferi sensu stricto	1998	tick	Ixodes pacificus			1/9/2024	3/6/2024	5	5	260	8	1	5	6	127	1131
+3676	S29	Canada	North America	bc_ab	NA_west	Sunshine Coast	BC	Borrelia burgdorferi sensu stricto	1999	tick	Ixodes pacificus			1/9/2024	3/5/2024	8	1	15	120	1	18	1	7	333
+3677	S30	Canada	North America	bc_ab	NA_west	Surrey	BC	Borrelia burgdorferi sensu stricto	2000	tick	Ixodes pacificus			1/9/2024	3/5/2024	5	5	4	5	301	5	280	6	1135
+3678	S31	Canada	North America	bc_ab	NA_west	Gulf Island	BC	Borrelia burgdorferi sensu stricto	2000	tick	Ixodes pacificus			1/9/2024	3/5/2024	3	3	2	4	3	4	4	4	12
+3679	S32	Canada	North America	bc_ab	NA_west	West Vancouver	BC	Borrelia burgdorferi sensu stricto	2000	tick	Ixodes pacificus			1/9/2024	3/5/2024	5	5	4	5	301	5	280	6	1135
+3680	S33	Canada	North America	bc_ab	NA_west	North Vancouver	BC	Borrelia burgdorferi sensu stricto	2002	tick	Ixodes pacificus			1/9/2024	3/5/2024	8	1	15	94	2	20	96	7	268
+3681	S35	Canada	North America	bc_ab	NA_west	North Vancouver	BC	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus			1/9/2024	3/5/2024	1	1	7	1	1	1	1	11	2
+3682	S41	Canada	North America	bc_ab	NA_west	Vancouver Island	BC	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes auritulus			1/9/2024	3/5/2024	3	3	2	4	3	4	4	4	12
+3684	S43	Canada	North America	bc_ab	NA_west	Bulkley Valley	BC	Borrelia burgdorferi sensu stricto	2008	tick	Ixodes angustus			1/9/2024	3/5/2024	3	3	2	4	3	4	4	4	12
+3685	S44	Canada	North America	bc_ab	NA_west	North Vancouver	BC	Borrelia burgdorferi sensu stricto	2008	tick	Ixodes angustus			1/9/2024	3/5/2024	3	3	2	4	3	4	4	4	12
+3686	S48	Canada	North America	bc_ab	NA_west	Vancouver	BC	Borrelia burgdorferi sensu stricto	2010	tick	Ixodes pacificus			1/9/2024	3/5/2024	18	12	1	11	2	15	1	2	29
+412	114311	USA	North America	dc_adjacent	NA_eastern	Elk Neck State Park	MD	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"39.48381667, -75.97185"		1/29/2015	1/29/2015	5	7	5	1	6	1	4	9	11
+415	113616	USA	North America	dc_adjacent	NA_eastern	Elk Neck State Park	MD	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"39.48381667, -75.97185"		1/29/2015	1/29/2015	9	1	1	7	1	6	1	10	14
+472	114212	USA	North America	dc_adjacent	NA_eastern	Elk Neck State Park	MD	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"39.47778333, -75.98025"		1/29/2015	1/29/2015	6	1	5	1	1	7	1	1	58
+3570	15-0078	USA	North America	dc_adjacent	NA_eastern		MD	Borrelia burgdorferi sensu stricto	2014	human	Synovial Fluid			5/4/2023	5/4/2023	4	1	1	1	224	6	1	217	754
+2042	15-1893	USA	North America	dc_adjacent	NA_eastern		VA	Borrelia burgdorferi sensu stricto	2014	human	PCR on Synovial Fluid			12/4/2017	1/3/2018	4	1	1	1	1	6	1	7	3
+3416	VA-1942	USA	North America	dc_adjacent	NA_eastern	Lesesne State Forest	VA	Borrelia burgdorferi sensu stricto	2011	tick	"Ixodes scapularis, nymph"	"37.8363, -78.9759"	SAMN05290121	3/24/2022	3/24/2022	10	5	4	6	1	15	1	6	36
+3417	VA-2001	USA	North America	dc_adjacent	NA_eastern	Lesesne State Forest	VA	Borrelia burgdorferi sensu stricto	2011	tick	"Ixodes scapularis, nymph"	"37.8363, -78.9759"	SAMN05290122	3/24/2022	3/24/2022	4	1	1	1	1	6	1	7	3
+3418	VA-2058	USA	North America	dc_adjacent	NA_eastern	Goochland County	VA	Borrelia burgdorferi sensu stricto	2011	tick	"Ixodes scapularis, nymph"	"37.5884, -77.6642"	SAMN05290123	3/24/2022	3/24/2022	10	5	4	6	1	15	1	6	36
+3419	VA-2549	USA	North America	dc_adjacent	NA_eastern	Lesesne State Forest	VA	Borrelia burgdorferi sensu stricto	2011	tick	"Ixodes scapularis, nymph"	"37.8363, -78.9759"	SAMN05290124	3/24/2022	3/24/2022	1	1	1	1	1	1	1	1	1
+3420	VA-5001	USA	North America	dc_adjacent	NA_eastern		VA	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"37.5, -79"	SAMN05290125	3/24/2022	3/24/2022	1	1	1	1	1	309	1	11	1023
+3421	VA-5044	USA	North America	dc_adjacent	NA_eastern		VA	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"37.5, -79"	SAMN05290127	3/24/2022	3/24/2022	1	1	1	1	1	309	1	11	1023
+3422	VA-5054	USA	North America	dc_adjacent	NA_eastern		VA	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"37.5, -79"	SAMN05290128	3/24/2022	3/24/2022	1	1	1	1	1	309	1	11	1023
+3571	15-1849	USA	North America	dc_adjacent	NA_eastern		VA	Borrelia burgdorferi sensu stricto	2014	human	Synovial Fluid			5/4/2023	5/4/2023	4	4	3	217	3	3	3	3	755
+3577	15-8808	USA	North America	dc_adjacent	NA_eastern		VA	Borrelia burgdorferi sensu stricto	2015	human	Synovial Fluid			5/4/2023	5/4/2023	4	1	189	1	1	6	1	7	761
+426	2080802	USA	North America	east_mw_us	NA_midwest	Castle Rock State Park	IL	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"41.98586944, -89.360825"		1/29/2015	1/29/2015	18	12	1	11	2	15	1	2	29
+1399	Mid315	USA	North America	east_mw_us	NA_midwest	Castle Rock State Park	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.97823, -89.36867"		1/29/2015	1/29/2015	5	5	4	114	1	15	1	6	302
+1400	Mid327	USA	North America	east_mw_us	NA_midwest	Castle Rock State Park	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.97823, -89.36867"		1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+1401	Mid337	USA	North America	east_mw_us	NA_midwest	Castle Rock State Park	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.97823, -89.36867"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+1402	Mid352	USA	North America	east_mw_us	NA_midwest	Castle Rock State Park	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.97823, -89.36867"		1/29/2015	1/29/2015	3	119	2	2	3	4	4	4	390
+1407	Mid761	USA	North America	east_mw_us	NA_midwest	Fort Sheridan (Lake Co.)	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"42.21857, -87.814156"		1/29/2015	1/29/2015	24	14	4	18	11	19	1	12	56
+1408	Mid762	USA	North America	east_mw_us	NA_midwest	Fort Sheridan (Lake Co.)	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"42.21857, -87.814156"		1/29/2015	1/29/2015	8	1	1	14	2	6	1	10	48
+1409	Mid787	USA	North America	east_mw_us	NA_midwest	Fort Sheridan (Lake Co.)	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"42.21857, -87.814156"		1/29/2015	1/29/2015	12	120	1	2	1	16	2	2	393
+1421	Mid331	USA	North America	east_mw_us	NA_midwest	Castle Rock State Park	IL	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.97823, -89.36867"		1/29/2015	1/29/2015	12	1	1	7	112	6	1	10	301
+1398	Mid054	USA	North America	east_mw_us	NA_midwest	Tippecanoe	IN	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.11702, -86.60069"		1/29/2015	1/29/2015	7	6	12	1	2	5	5	83	223
+1411	C6	USA	North America	east_mw_us	NA_midwest	Tippecanoe	IN	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.11702, -86.60069"		1/29/2015	1/29/2015	4	4	3	3	3	3	3	3	19
+1412	C14	USA	North America	east_mw_us	NA_midwest	Tippecanoe	IN	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"41.11702, -86.60069"		1/29/2015	1/29/2015	8	1	15	94	2	20	76	7	395
+413	519508	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"42.33023333, -86.30940278"		1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+431	519014	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"42.33023333, -86.30940278"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+432	519512	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"42.33023333, -86.30940278"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+433	519519	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"42.33023333, -86.30940278"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+434	519612	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"42.33068333, -86.30995278"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+460	2228004	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"42.33783333, -86.30368056"		1/29/2015	1/29/2015	8	1	1	14	2	6	1	10	48
+1413	C43	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI-LP	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"42.33715, -86.30177"		1/29/2015	1/29/2015	105	2	2	2	1	8	1	2	235
+1415	C303	USA	North America	east_mw_us	NA_midwest	Van Buren State Park	MI-LP	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"42.33715, -86.30177"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+1406	Mid660	USA	North America	east_mw_us	NA_midwest	Menominee South (Erdman)	MI-UP	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.15831, -87.70145"		1/29/2015	1/29/2015	7	6	12	1	2	5	5	83	223
+2045	15-2880	USA	North America	east_mw_us	NA_midwest		MO	Borrelia burgdorferi sensu stricto	2015	human	PCR on Synovial Fluid			12/4/2017	1/3/2018	4	4	3	3	3	3	3	3	19
+1675	PAli	Germany	Europe	mainland_europe	EU	Regensburg	Bavaria	Borrelia burgdorferi sensu stricto	1994	human	skin	"49.0134, 12.1016"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+48	NE49	Switzerland	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	13	8	10	10	9	9	7	15	26
+1681	PKa II	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1984	human	CSF	"48.1351, 11.5819"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1685	PTa	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1994	human	CSF	"48.1351, 11.5819"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1674	PAbe	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1997	human	CSF	"48.1351, 11.5819"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1687	PWB	Germany	Europe	mainland_europe	EU	Rosenheim	Bavaria	Borrelia burgdorferi sensu stricto	1999	human	skin	"47.8571, 12.1181"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+47	IPT198	France	Europe	mainland_europe	EU	Normandie		Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	13	10	13	10	9	9	7	15	25
+1696	PSpm	Germany	Europe	mainland_europe	EU	Deggendorf		Borrelia burgdorferi sensu stricto	1995	human	CSF	"48.8408, 12.9574"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1711	5TIII164	Germany	Europe	mainland_europe	EU	Angelberger Forst	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.11, 10.575333"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1702	PFhe_II	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	2010	human	skin			1/29/2015	3/19/2024	14	1	11	1	1	10	1	10	21
+1678	PHas	Germany	Europe	mainland_europe	EU	Ulm	Bavaria	Borrelia burgdorferi sensu stricto	1992	human	CSF	"48.401, 9.9876"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1733	5NA111	Germany	Europe	mainland_europe	EU	Nymphenburger Schlosspark	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.1605555, 11.4925"		1/29/2015	3/16/2015	14	1	136	1	1	1	1	10	592
+1715	5BA322	Germany	Europe	mainland_europe	EU	Berg/Starnberger See	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"47.9619444, 11.3480556"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1684	PShl	Germany	Europe	mainland_europe	EU	Tubingen		Borrelia burgdorferi sensu stricto	1992	human	skin	"48.5216, 9.0576"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1717	6BIII293	Germany	Europe	mainland_europe	EU	Bad Mergentheim	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"47.9619444, 11.3480556"		1/29/2015	1/29/2015	14	1	11	1	1	11	1	10	284
+2787	Bol26_wgs	Italy	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto		human				2/17/2020	3/5/2024	14	1	11	119	1	1	1	10	332
+38	IPT69	France	Europe	mainland_europe	EU	Alsace		Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1680	PKa I	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1983	human	CSF	"48.1315, 11.5819"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1726	4EGA133	Germany	Europe	mainland_europe	EU	Englischer Garten	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.15027777, 11.59"		1/29/2015	1/29/2015	14	1	11	1	1	11	1	10	284
+41	IPT19	France	Europe	mainland_europe	EU	Alsace		Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	14	1	11	1	1	10	1	10	21
+1677	PDe	Germany	Europe	mainland_europe	EU	Kassel		Borrelia burgdorferi sensu stricto	1994	human	CSF	"51.3127, 9.4797"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1151	0120750I	Italy	Europe	mainland_europe	EU	South-Tirol	Überetsch-Unterland	Borrelia burgdorferi sensu stricto	2009	tick	Ixodes ricinus	"46.4371666, 11.2845494"		1/29/2015	5/10/2022	132	10	10	10	120	9	7	101	356
+1704	PKIF I	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1988	human	skin	"48.1351, 11.5819"		1/29/2015	1/29/2015	15	9	12	8	1	11	8	16	24
+1727	6EGIII57	Germany	Europe	mainland_europe	EU	Englischer Garten	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.15027777, 11.59"		1/29/2015	1/29/2015	14	1	11	1	1	11	1	10	284
+1692	PMeh	Germany	Europe	mainland_europe	EU	Garmisch	Bavaria	Borrelia burgdorferi sensu stricto	1996	human	PKJ	"47.4916, 11.0954"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1694	PMi	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1994	human	CSF	"48.1351, 11.5819"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1720	6DI63	Germany	Europe	mainland_europe	EU	Berg/Starnberger See	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"47.9619444, 11.3480556"		1/29/2015	1/29/2015	14	1	11	162	1	1	1	10	589
+49	Z41293	Germany	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	17	10	14	10	10	13	9	17	27
+50	Z41493	Germany	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	17	11	10	10	9	14	10	18	28
+1686	PWag	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1994	human	CSF	"48.1351, 11.5819"		1/29/2015	3/16/2015	1	1	1	1	1	1	1	1	1
+1710	5TI25	Germany	Europe	mainland_europe	EU	Angelberger Forst	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.11, 10.575333"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1705	PKIF II	Germany	Europe	mainland_europe	EU	Munich	Bavaria	Borrelia burgdorferi sensu stricto	1988	human	skin	"48.1351, 11.5819"		1/29/2015	1/29/2015	15	9	12	8	1	11	8	16	24
+1714	5BIII222	Germany	Europe	mainland_europe	EU	Berg/Starnberger See	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"47.9619444, 11.3480556"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1729	5KIII134	Germany	Europe	mainland_europe	EU	Kerschlach (Ammersee)	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"47.91583333, 12.21222222"		1/29/2015	1/29/2015	14	1	11	1	1	10	1	10	21
+1884	94B24	Germany	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto	2005	tick	Ixodes ricinus			3/3/2016	3/3/2016	14	1	11	1	1	1	1	157	546
+1066	Bol26	Italy	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto		human			GenBank	1/29/2015	1/29/2015	14	1	11	119	1	1	1	10	332
+1724	5EGI8	Germany	Europe	mainland_europe	EU	Englischer Garten	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.15027777, 11.59"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+46	IPT193	France	Europe	mainland_europe	EU	Normandie		Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	13	10	13	10	9	9	7	15	25
+1725	6EGI5	Germany	Europe	mainland_europe	EU	Englischer Garten	Bavaria	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes ricinus	"48.15027777, 11.59"		1/29/2015	1/29/2015	14	1	11	1	1	1	1	10	20
+1881	22B64	Germany	Europe	mainland_europe	EU			Borrelia burgdorferi sensu stricto	2005	tick	Ixodes ricinus			3/3/2016	3/3/2016	217	1	11	1	1	1	1	10	673
+1541	BP-2	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	2/23/2022	8	2	5	93	2	8	1	84	225
+2275	MB11-84	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.85, -97.47"		3/13/2018	3/13/2018	25	4	3	3	3	21	6	2	233
+2258	MB11-121	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.37, -98.24"		3/13/2018	3/13/2018	4	4	3	3	3	21	6	104	410
+2206	BP-37	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	18	2	1	2	1	16	4	2	528
+2440	Bb16-59-1	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	8	1	15	8	12	20	1	7	51
+1536	BP-32	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	1/29/2015	14	1	5	2	2	1	1	10	530
+2198	BP-17	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	23	1	17	20	2	1	1	10	55
+2439	Bb16-57-1	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	18	12	1	11	2	15	1	2	29
+2391	Bb16-17-1	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	3	3	2	2	3	4	4	4	221
+2436	Bb16-49	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	8	1	1	1	4	16	1	7	32
+1534	BP-11	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	1/29/2015	18	2	1	2	1	16	4	2	528
+2038	Bb16-54	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		10/16/2017	10/16/2017	244	2	1	2	1	16	4	2	741
+2211	BP-6	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	20	4	3	3	3	3	3	3	31
+1533	BP-40	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	1/29/2015	3	3	2	2	5	4	4	4	527
+2205	BP-36	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	18	12	1	11	2	15	1	2	29
+2443	Bb16-66	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	107	2	1	95	2	18	4	3	237
+1532	BP-43	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	1/29/2015	3	3	16	2	3	4	4	10	526
+2209	BP-45	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	18	12	1	11	2	15	1	2	29
+1539	BP-22	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	1/29/2015	3	3	1	3	5	4	4	4	533
+2276	MB11-86	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.32, -96.93"		3/13/2018	3/13/2018	8	1	15	8	12	20	1	7	51
+1891	MB11-126	Canada	North America	manitoba	NA_midwest	"Thompson Trail, Miami"	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.37, -98.24"		2/16/2017	2/16/2017	12	1	1	7	112	1	1	10	640
+1538	BP-27	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49.0005999, -95.2332999"		1/29/2015	1/29/2015	128	1	1	8	1	6	1	10	532
+2213	BP-8	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	18	12	1	11	2	15	1	2	29
+867	MB07-21	Canada	North America	manitoba	NA_midwest	Winnipeg	MB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+2255	MB11-113	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.37, -98.24"		3/13/2018	3/13/2018	12	2	1	2	1	16	76	2	227
+2266	MB11-137	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.17, -98.09"		3/13/2018	3/13/2018	8	1	1	14	2	6	1	10	48
+2272	MB11-75	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.85, -97.47"		3/13/2018	3/13/2018	18	12	1	11	2	15	1	2	29
+2395	Bb16-110	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	244	2	1	2	1	16	4	2	741
+2197	BP-16	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	18	12	1	11	2	15	1	2	29
+2196	BP-13	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	12	1	1	7	1	6	1	10	52
+2448	Bb16-90-2	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	20	4	3	3	3	18	3	3	229
+2392	Bb16-22-2	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	23	1	17	20	2	1	1	10	55
+2199	BP-19	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	8	1	1	14	2	6	1	10	48
+2037	Bb16-87	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		10/16/2017	10/16/2017	8	1	1	1	5	6	1	7	740
+2397	Bb16-112	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	107	2	1	95	2	18	4	3	237
+2446	Bb16-80	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	8	1	15	94	2	20	96	7	268
+2444	Bb16-71-2	Canada	North America	manitoba	NA_midwest	Buffalo Point	MB	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.0127, -95.2396"		3/13/2018	3/13/2018	4	4	3	19	3	3	3	3	44
+2268	MB11-141	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.24, -98.68"		3/13/2018	3/13/2018	23	1	17	20	2	1	1	10	55
+2278	MB11-97	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2011	tick	Ixodes scapularis	"49.32, -96.93"		3/13/2018	3/13/2018	8	1	1	14	2	6	1	10	48
+2212	BP-7	Canada	North America	manitoba	NA_midwest	Manitoba	Manitoba	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"49, -95.23"		3/13/2018	3/13/2018	14	1	5	2	2	1	1	10	530
+3359	L06-ER21	Canada	North America	nb_pei_ns	NA_eastern	Lunenburg	Nova Scotia	Borrelia burgdorferi sensu stricto	2006	tick	"Ixodes scapularis, nymph"	"44.3834, -64.3154"	SAMN05290013	3/24/2022	3/24/2022	4	1	1	1	1	6	1	7	3
+994	PEI07-24	Canada	North America	nb_pei_ns	NA_eastern	Tignish	PEI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+2432	Bb16-250	Canada	North America	nb_pei_ns	NA_eastern	Shelburne County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"43.7683, -65.3182"		3/13/2018	3/13/2018	3	3	2	4	3	4	4	4	12
+2417	Bb16-170	Canada	North America	nb_pei_ns	NA_eastern	Lunenburg County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"44.3781, -64.3187"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+901	NS07-166	Canada	North America	nb_pei_ns	NA_eastern	Pomquet	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+996	PEI07-48	Canada	North America	nb_pei_ns	NA_eastern	Moncton	NB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	10	5	4	6	1	15	1	6	36
+2409	Bb16-142	Canada	North America	nb_pei_ns	NA_eastern	Shelburne County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"43.7683, -65.3182"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+900	NS07-128	Canada	North America	nb_pei_ns	NA_eastern	Sydney	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	21	1	15	8	1	18	4	7	38
+889	NS06-113c	Canada	North America	nb_pei_ns	NA_eastern	Seafoam	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+896	NS06-235	Canada	North America	nb_pei_ns	NA_eastern	Glace Bay	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+911	ON06-107	Canada	North America	nb_pei_ns	NA_eastern	Moncton	NB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	9	1	1	7	1	6	1	10	14
+3383	NS12-61	Canada	North America	nb_pei_ns	NA_eastern	Birchtown	Nova Scotia	Borrelia burgdorferi sensu stricto	2012	tick	"Ixodes scapularis, adult"	"45.6334, -62.4319"	SAMN05290069	3/24/2022	3/24/2022	3	3	2	4	3	4	4	4	12
+2422	Bb16-181	Canada	North America	nb_pei_ns	NA_eastern	Pictou County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"45.6806, -62.7121"		3/13/2018	3/13/2018	4	4	3	3	3	3	3	3	19
+884	NB07-95	Canada	North America	nb_pei_ns	NA_eastern	Albert Mines	NB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+2416	Bb16-167	Canada	North America	nb_pei_ns	NA_eastern	Shelburne County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"43.7683, -65.3182"		3/13/2018	3/13/2018	3	3	2	4	3	4	4	4	12
+904	NS07-290	Canada	North America	nb_pei_ns	NA_eastern	Truro	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+883	NB07-87	Canada	North America	nb_pei_ns	NA_eastern	Saint John	NB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	5	5	4	5	5	5	94	6	305
+2420	Bb16-178-1	Canada	North America	nb_pei_ns	NA_eastern	Lunenburg County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"44.3781, -64.3187"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+3357	L06-CEM16	Canada	North America	nb_pei_ns	NA_eastern	Lunenburg	Nova Scotia	Borrelia burgdorferi sensu stricto	2006	tick	"Ixodes scapularis, nymph"	"44.3834, -64.3154"	SAMN05290011	3/24/2022	3/24/2022	3	3	2	4	3	4	4	4	12
+995	PEI07-33b	Canada	North America	nb_pei_ns	NA_eastern	New Haven	PEI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+874	NB06-129	Canada	North America	nb_pei_ns	NA_eastern	Shediac	NB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1897	M08-004	Canada	North America	nb_pei_ns	NA_eastern	Millidgeville	New Brunswick	Borrelia burgdorferi sensu stricto	2008	tick	Ixodes scapularis	"45.3, -66.1"		2/16/2017	2/16/2017	1	1	1	1	1	6	1	7	645
+2424	Bb16-183	Canada	North America	nb_pei_ns	NA_eastern	Pictou County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"45.6806, -62.7121"		3/13/2018	3/13/2018	8	1	1	1	4	6	1	7	4
+877	NB06-85	Canada	North America	nb_pei_ns	NA_eastern	Dumfries	NB	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+2429	Bb16-198	Canada	North America	nb_pei_ns	NA_eastern	Bedford	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"44.7234, -63.6891"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+985	PEI06-37	Canada	North America	nb_pei_ns	NA_eastern	East Point	PEI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	3	3	2	2	3	4	4	4	221
+991	PEI06-84	Canada	North America	nb_pei_ns	NA_eastern	Summerside	PEI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	128	3	2	4	3	4	4	4	317
+893	NS06-2	Canada	North America	nb_pei_ns	NA_eastern	Western Shore (Lunenburg Co.)	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	2	2	1	2	2	2	2	2	16
+1545	L.38	Canada	North America	nb_pei_ns	NA_eastern	Lunenburg	NS	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"44.5333333, -64.4991666"		1/29/2015	1/29/2015	5	1	1	94	1	6	1	7	538
+1544	BH.2.51	Canada	North America	nb_pei_ns	NA_eastern	Lunenburg	NS	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"44.5333333, -64.4991666"		1/29/2015	1/29/2015	6	5	4	6	1	6	1	6	537
+909	NS07-96	Canada	North America	nb_pei_ns	NA_eastern	Margaree	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+890	NS06-129	Canada	North America	nb_pei_ns	NA_eastern	Antigonish	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+2410	Bb16-145	Canada	North America	nb_pei_ns	NA_eastern	Shelburne County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"43.7683, -65.3182"		3/13/2018	3/13/2018	4	4	3	3	3	3	3	3	19
+3382	NS12-24	Canada	North America	nb_pei_ns	NA_eastern	Birchtown	Nova Scotia	Borrelia burgdorferi sensu stricto	2012	tick	"Ixodes scapularis, adult"	"45.6334, -62.4319"	SAMN05290068	3/24/2022	3/24/2022	4	1	1	1	1	8	1	10	1018
+895	NS06-234	Canada	North America	nb_pei_ns	NA_eastern	Metagen	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	9	1	1	7	1	1	1	10	307
+907	NS07-75	Canada	North America	nb_pei_ns	NA_eastern	Fall River	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	7	6	12	1	1	5	5	5	37
+905	NS07-2a	Canada	North America	nb_pei_ns	NA_eastern	Dartmouth	NS	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+987	PEI06-49	Canada	North America	nb_pei_ns	NA_eastern	Brudenell Point	PEI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+999	PEI07-77	Canada	North America	nb_pei_ns	NA_eastern	Belle River	PEI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	10	5	4	6	1	6	1	6	9
+2423	Bb16-182	Canada	North America	nb_pei_ns	NA_eastern	Pictou County	NS	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"45.6806, -62.7121"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+3273	K15	USA	North America	new_england	NA_eastern	New England	Connecticut	Borrelia burgdorferi sensu stricto	2000	human	"skin, disseminated"			3/14/2022	3/14/2022	4	1	1	1	1	6	1	7	3
+716	YM-07-72	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	19	59
+3409	RI-2597	USA	North America	new_england	NA_eastern	Block Island	RI	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"41.1697, -71.58"	SAMN05290105	3/24/2022	3/24/2022	14	1	5	1	6	16	1	125	1021
+714	YM-07-69	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	19	59
+3302	K82	USA	North America	new_england	NA_eastern	New England	Rhode Island	Borrelia burgdorferi sensu stricto	2000	human	"skin, localized"			3/14/2022	3/14/2022	4	1	1	1	1	6	1	7	3
+552	JG-07-14	USA	North America	new_england	NA_eastern	Lyme-peridomestic	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.297, -72.277"	nymph	1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+773	SG-07-2	USA	North America	new_england	NA_eastern	Sleeping Giant SP	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.425, -72.896"	nymph	1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+752	MO-07-17	USA	North America	new_england	NA_eastern	Moore SP	MA	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.31, -71.956"	nymph	1/29/2015	1/29/2015	8	1	1	7	1	6	1	10	34
+3367	MA-2294	USA	North America	new_england	NA_eastern	Quashnet River State Park	MA	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"41.5949, -70.5076"	SAMN05290034	3/24/2022	3/24/2022	6	1	5	1	230	242	1	224	797
+417	16201	USA	North America	new_england	NA_eastern	Crescent Beach State Park	ME	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"43.56511667, -70.23728333"		1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+3325	Bbcap32	USA	North America	new_england	NA_eastern	Lake Gaillard	CT	Borrelia burgdorferi sensu stricto	2007	tick	"Ixodes scapularis, nymph"	"41.344, -72.764"	SAMN05289960	3/24/2022	3/24/2022	22	1	5	8	1	18	11	10	40
+857	YM-07-40	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	8	1	15	94	2	20	1	7	226
+730	YM-07-89	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	18	12	1	11	2	15	1	2	29
+741	MO-07-2	USA	North America	new_england	NA_eastern	Moore SP	MA	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.31, -71.956"	nymph	1/29/2015	1/29/2015	7	6	12	1	1	5	5	5	37
+854	YM-07-19	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	8	1	15	94	2	20	1	7	226
+3293	K66	USA	North America	new_england	NA_eastern	New England	Rhode Island	Borrelia burgdorferi sensu stricto	2000	human	"skin, disseminated"			3/14/2022	3/14/2022	1	1	1	1	1	1	1	1	1
+3336	CT-1807	USA	North America	new_england	NA_eastern	Barn Island WMA	CT	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"41.3441, -71.8565"	SAMN05289975	3/24/2022	3/24/2022	9	1	1	1	1	15	1	223	1010
+554	JG-07-19	USA	North America	new_england	NA_eastern	Lyme-peridomestic	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.297, -72.277"	nymph	1/29/2015	1/29/2015	5	7	5	1	6	1	4	9	11
+700	YM-07-36	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+761	MR-07-1	USA	North America	new_england	NA_eastern	Mount Riga SP	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.029, -73.431"	nymph	1/29/2015	1/29/2015	7	6	12	1	1	5	5	5	37
+408	552301	USA	North America	new_england	NA_eastern	Devils Hopyard State Park	CT	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"41.47785278, -72.33458611"		1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+863	YM-07-74	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	8	1	15	94	2	20	1	7	226
+3270	K11	USA	North America	new_england	NA_eastern	New England	Connecticut	Borrelia burgdorferi sensu stricto	2000	human	"skin, disseminated"			3/14/2022	3/14/2022	4	1	1	1	1	6	1	7	3
+3295	K7	USA	North America	new_england	NA_eastern	New England	Rhode Island	Borrelia burgdorferi sensu stricto	2000	human	"skin, localized"			3/14/2022	3/14/2022	1	1	1	1	1	1	1	1	1
+691	YM-07-22	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+853	YM-07-3	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	8	1	15	94	2	20	1	7	226
+686	YM-07-14	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+684	YM-07-12	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+724	YM-07-82	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	19	59
+751	MO-07-15	USA	North America	new_england	NA_eastern	Moore SP	MA	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.31, -71.956"	nymph	1/29/2015	1/29/2015	7	6	12	1	1	5	5	5	37
+796	LG-07-8	USA	North America	new_england	NA_eastern	Lake Gaillard	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.344, -72.764"	nymph	1/29/2015	1/29/2015	22	1	5	8	1	18	11	10	40
+699	YM-07-34	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+771	MR-07-19	USA	North America	new_england	NA_eastern	Mount Riga SP	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.029, -73.431"	nymph	1/29/2015	1/29/2015	7	6	12	1	1	5	5	5	37
+3297	K72	USA	North America	new_england	NA_eastern	New England	Connecticut	Borrelia burgdorferi sensu stricto	2000	human	"skin, localized"			3/14/2022	3/14/2022	4	1	1	1	1	6	1	7	3
+694	YM-07-25	USA	North America	new_england	NA_eastern	Yale Myers Forest	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.953, -72.125"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	19	59
+770	MR-07-17	USA	North America	new_england	NA_eastern	Mount Riga SP	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.029, -73.431"	nymph	1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+763	MR-07-5	USA	North America	new_england	NA_eastern	Mount Riga SP	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"42.029, -73.431"	nymph	1/29/2015	1/29/2015	2	2	1	2	2	2	2	2	16
+3301	K76	USA	North America	new_england	NA_eastern	New England	Connecticut	Borrelia burgdorferi sensu stricto	2000	human	"skin, disseminated"			3/14/2022	3/14/2022	8	1	1	1	4	6	1	7	4
+795	LG-07-7	USA	North America	new_england	NA_eastern	Lake Gaillard	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.344, -72.764"	nymph	1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+557	JG-07-22	USA	North America	new_england	NA_eastern	Lyme-peridomestic	CT	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.297, -72.277"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+583	FDR-07-23	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+598	FDR-07-47	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+657	JB-07-28	USA	North America	north_east_us	NA_eastern	James Baird SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.691, -73.791"	nymph	1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+845	CQ-07-62	USA	North America	north_east_us	NA_eastern	Connetquot River SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"40.752, -73.152"	nymph	1/29/2015	1/29/2015	5	5	4	5	5	5	1	6	8
+813	CQ-07-9	USA	North America	north_east_us	NA_eastern	Connetquot River SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"40.752, -73.152"	nymph	1/29/2015	1/29/2015	8	1	1	1	4	6	1	7	4
+3386	NY-1468	USA	North America	north_east_us	NA_eastern	Connetquot State Park	NY	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"40.7496, -73.1544"	SAMN05290075	3/24/2022	3/24/2022	5	7	5	1	6	1	4	9	11
+3403	PA-22520	USA	North America	north_east_us	NA_eastern	Parker Dam State Park	PA	Borrelia burgdorferi sensu stricto	2005	tick	"Ixodes scapularis, nymph"	"41.2114, -78.5008"	SAMN05290096	3/24/2022	3/24/2022	8	1	1	1	4	16	1	7	32
+107	MR704	USA	North America	north_east_us	NA_eastern	Westchester County	NY	Borrelia burgdorferi sensu stricto	2005	human	EM			1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+3330	Bbcap8	USA	North America	north_east_us	NA_eastern	FDR State Park	NY	Borrelia burgdorferi sensu stricto	2007	tick	"Ixodes scapularis, nymph"	"41.283, -73.808"	SAMN05289965	3/24/2022	3/24/2022	1	1	1	1	1	1	1	1	1
+591	FDR-07-33	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+443	119909	USA	North America	north_east_us	NA_eastern	Gifford Pinchot State Park	PA	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"40.07556944, -76.91497778"		1/29/2015	1/29/2015	21	1	15	8	1	18	4	7	38
+780	CP-07-7	USA	North America	north_east_us	NA_eastern	Cedar Point CP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.036, -72.232"	nymph	1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+587	FDR-07-27	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+584	FDR-07-24	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+3574	15-4205	USA	North America	north_east_us	NA_eastern		PA	Borrelia burgdorferi sensu stricto	2015	human	Synovial Fluid			5/4/2023	5/4/2023	14	1	1	2	1	6	200	7	758
+626	FDR-07-88	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+450	553701	USA	North America	north_east_us	NA_eastern	Connetquot River State Park	NY	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"40.75505, -73.15158889"		1/29/2015	1/29/2015	6	1	5	1	1	7	12	8	45
+836	CQ-07-45	USA	North America	north_east_us	NA_eastern	Connetquot River SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"40.752, -73.152"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+573	FDR-07-7	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+647	JB-07-14	USA	North America	north_east_us	NA_eastern	James Baird SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.691, -73.791"	nymph	1/29/2015	1/29/2015	7	6	6	1	1	5	5	5	18
+402	501604	USA	North America	north_east_us	NA_eastern	Connetquot River State Park	NY	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"40.76467222, -73.15033611"		1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+65	B236	USA	North America	north_east_us	NA_eastern	Westchester County	NY	Borrelia burgdorferi sensu stricto	1995	human	EM			1/29/2015	1/29/2015	8	1	1	7	1	6	1	10	34
+67	BL324	USA	North America	north_east_us	NA_eastern	Westchester County	NY	Borrelia burgdorferi sensu stricto	2000	human	blood			1/29/2015	1/29/2015	10	5	4	6	1	15	1	6	36
+3331	Bbcap9	USA	North America	north_east_us	NA_eastern	FDR State Park	NY	Borrelia burgdorferi sensu stricto	2007	tick	"Ixodes scapularis, nymph"	"41.283, -73.808"	SAMN05289966	3/24/2022	3/24/2022	4	4	3	3	3	3	3	3	19
+623	FDR-07-84	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+629	FDR-07-94	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	8	1	1	7	1	6	1	10	34
+839	CQ-07-52	USA	North America	north_east_us	NA_eastern	Connetquot River SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"40.752, -73.152"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+3401	NY-2539	USA	North America	north_east_us	NA_eastern	Hither Hills State Park	NY	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"41.0134, -72.0091"	SAMN05290094	3/24/2022	3/24/2022	8	1	1	7	1	6	1	10	34
+2788	72a_wgs	USA	North America	north_east_us	NA_eastern		NY	Borrelia burgdorferi sensu stricto		human				2/17/2020	3/5/2024	9	1	1	7	1	6	1	10	14
+1	B31	USA	North America	north_east_us	NA_eastern	Long  Island	NY	Borrelia burgdorferi sensu stricto	1981	tick	Ixodes scapularis			1/29/2015	3/5/2024	1	1	1	1	1	1	1	1	1
+123	CDC146	USA	North America	north_east_us	NA_eastern	Westchester County	NY	Borrelia burgdorferi sensu stricto	1991	human	EM			1/29/2015	1/29/2015	4	4	3	3	3	3	3	3	19
+823	CQ-07-20	USA	North America	north_east_us	NA_eastern	Connetquot River SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"40.752, -73.152"	nymph	1/29/2015	1/29/2015	5	7	5	1	6	1	4	9	11
+98	B471	USA	North America	north_east_us	NA_eastern	Westchester County	NY	Borrelia burgdorferi sensu stricto	2000	human	EM			1/29/2015	1/29/2015	8	1	1	1	4	6	1	7	4
+3308	Bbcap10	USA	North America	north_east_us	NA_eastern	James Baird State Park	NY	Borrelia burgdorferi sensu stricto	2007	tick	"Ixodes scapularis, nymph"	"41.691, -73.791"	SAMN05289938	3/24/2022	3/24/2022	6	1	5	1	1	7	1	8	7
+115	BL630	USA	North America	north_east_us	NA_eastern	Westchester County	NY	Borrelia burgdorferi sensu stricto	2005	human	EM			1/29/2015	1/29/2015	9	1	1	7	1	6	1	10	14
+3351	HIS-3057	USA	North America	north_east_us	NA_eastern	Calder	NY	Borrelia burgdorferi sensu stricto	1984	tick	"Ixodes scapularis, adult"	"41.2381, -73.5226"	SAMN05290002	3/24/2022	3/24/2022	5	5	4	5	5	5	1	6	8
+474	2251413	USA	North America	north_east_us	NA_eastern	Gifford Pinchot State Park	PA	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"40.07556944, -76.91497778"		1/29/2015	1/29/2015	6	1	5	1	1	7	1	19	59
+570	FDR-07-1	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+608	FDR-07-60	USA	North America	north_east_us	NA_eastern	F.D.Roosevelt SP	NY	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.283, -73.808"	nymph	1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+1075	156a	USA	North America	north_east_us	NA_eastern		NY	Borrelia burgdorferi sensu stricto		human			GenBank	1/29/2015	1/29/2015	8	1	1	1	4	6	1	7	4
+3466	D2_Iscap	Canada	North America	ontario	NA_eastern	Pickering	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"43.838, -79.083"	All D isolates from the same tick	12/16/2022	12/16/2022	23	1	17	20	2	1	1	10	55
+944	ON07-14	Canada	North America	ontario	NA_eastern	Ottawa	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	5	5	4	5	1	15	1	6	222
+3467	D3_Iscap	Canada	North America	ontario	NA_eastern	Pickering	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"43.838, -79.083"	All D isolates from the same tick	12/16/2022	12/16/2022	23	1	17	20	2	1	1	10	55
+920	ON06-260a	Canada	North America	ontario	NA_eastern	Kemptville	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+977	ON07-88	Canada	North America	ontario	NA_eastern	Lyn	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+3489	L1_Iscap	Canada	North America	ontario	NA_eastern	Gananoque	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.328, -76.172"	All L isolates from the same tick	12/16/2022	12/16/2022	8	1	15	94	2	20	1	7	226
+2379	S.426	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.35, -75.99"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+2300	ON12-035	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.23, -76.61"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+922	ON06-277	Canada	North America	ontario	NA_eastern	Gananoque	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	10	5	4	6	1	6	1	6	9
+2328	PP07-3	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"41.96, -82.52"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2434	Bb16-33-3	Canada	North America	ontario	NA_eastern	Birch Island	NWON	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.6322, -94.5762"		3/13/2018	3/13/2018	5	5	4	114	1	15	1	6	302
+2371	S.229	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.35, -75.99"		3/13/2018	3/13/2018	4	4	3	3	3	3	3	3	19
+973	ON07-795	Canada	North America	ontario	NA_eastern	Lansdowne	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+2297	ON12-022	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.69, -76.4"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2400	Bb16-128	Canada	North America	ontario	NA_eastern	Big Island	NWON	Borrelia burgdorferi sensu stricto	2016	tick	Ixodes scapularis	"49.1455, -94.6587"		3/13/2018	3/13/2018	4	4	3	3	3	21	6	3	43
+3469	E2_Iscap	Canada	North America	ontario	NA_eastern	Perth	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.899, -76.249"	All E isolates from the same tick	12/16/2022	12/16/2022	2	2	1	2	2	2	2	2	16
+2340	PP12-2	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"41.96, -82.52"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+3476	G3_Iscap	Canada	North America	ontario	NA_eastern		Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis		All G isolates from the same tick	12/16/2022	12/16/2022	8	1	1	14	2	6	1	10	48
+3458	A3_Iscap	Canada	North America	ontario	NA_eastern	Grafton	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.019, -77.988"	All A isolates from the same tick	12/16/2022	12/16/2022	2	2	1	2	2	2	2	2	16
+2324	PP06-7	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes scapularis	"41.96, -82.52"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+2281	NW13-38	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2013	animal host	Eastern chipmunk	"48.68, -94.16"		3/13/2018	3/13/2018	8	1	1	14	2	16	1	10	300
+3509	T3_Iscap	Canada	North America	ontario	NA_eastern	Sundridge	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"45.777, -79.385"	All T isolates from the same tick	12/16/2022	12/16/2022	1	1	1	1	1	1	1	1	1
+1893	NW13-TI23	Canada	North America	ontario	NA_eastern	"Camp of the Woods, Rainy River"	Ontario	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes scapularis on Eastern chipmunck	"48.77, -94.66"		2/16/2017	2/16/2017	155	5	4	1	5	197	1	12	641
+955	ON07-336	Canada	North America	ontario	NA_eastern	Gananoque	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	9	1	1	7	1	6	1	10	14
+3483	J1_Iscap	Canada	North America	ontario	NA_eastern	Perth	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.899, -76.249"	All J isolates from the same tick	12/16/2022	12/16/2022	3	3	2	4	3	4	4	4	12
+2299	ON12-030	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.69, -76.4"		3/13/2018	3/13/2018	5	5	4	5	5	5	1	6	8
+2302	ON12-050	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.23, -76.61"		3/13/2018	3/13/2018	8	1	15	94	2	20	1	7	226
+3472	F2_Iscap	Canada	North America	ontario	NA_eastern	Perth	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.899, -76.249"	All F isolates from the same tick	12/16/2022	12/16/2022	3	3	2	4	3	4	4	4	12
+3490	L2_Iscap	Canada	North America	ontario	NA_eastern	Gananoque	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.328, -76.172"	All L isolates from the same tick	12/16/2022	12/16/2022	4	4	3	3	3	3	3	3	19
+2335	PP10-1	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2010	tick	Ixodes scapularis	"41.96, -82.52"		3/13/2018	3/13/2018	8	1	1	1	4	6	1	7	4
+1894	ON12-104	Canada	North America	ontario	NA_eastern	Murphy's Point Provincial Park	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.77, -76.22"		2/16/2017	2/16/2017	9	1	1	7	1	2	1	10	642
+2288	NW13-TI31	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2013	animal host	Red squirrel	"48.72, -94.59"		3/13/2018	2/23/2022	8	2	5	93	2	8	1	84	225
+3506	S_Iscap	Canada	North America	ontario	NA_eastern	Seeley's Bay	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"44.478, -76.235"		12/16/2022	12/16/2022	10	5	4	6	1	15	1	6	36
+2381	S.487	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.35, -75.99"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+964	ON07-507	Canada	North America	ontario	NA_eastern	Brockville	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+2308	ON12-088	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.77, -76.22"		3/13/2018	3/13/2018	10	5	4	6	1	6	1	6	9
+3508	T2_Iscap	Canada	North America	ontario	NA_eastern	Sundridge	Ontario	Borrelia burgdorferi sensu stricto	2019	tick	Ixodes scapularis	"45.777, -79.385"	All T isolates from the same tick	12/16/2022	12/16/2022	1	1	1	1	1	1	1	1	1
+2311	ON12-098	Canada	North America	ontario	NA_eastern	Ontario	Ontario	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"44.77, -76.22"		3/13/2018	3/13/2018	8	1	1	1	4	6	1	7	4
+1529	LP-13	Canada	North America	ontario	NA_eastern	Long Point	ON	Borrelia burgdorferi sensu stricto	2001	tick	Ixodes scapularis	"42.55573, -80.19713"		1/29/2015	1/29/2015	8	1	1	20	1	6	1	10	523
+959	ON07-424	Canada	North America	ontario	NA_eastern	Gananoque	ON	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis			1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+2156	85	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	Eastern chipmunk	"45.12, -73.21"		3/13/2018	3/13/2018	5	5	4	5	5	5	1	6	8
+2345	QC12a-138	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.55, -73.32"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2179	AK09.10-048	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2009	tick	Ixodes scapularis	"45, -74.65"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2354	QC12a-206	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2368	QC12a-294	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	3	3	2	4	3	4	4	4	12
+2178	AK09.10-037	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2009	tick	Ixodes scapularis	"45, -74.65"		3/13/2018	3/13/2018	9	1	1	7	1	6	1	10	14
+2343	qc10.d.467	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2010	tick	Ixodes scapularis	"45.78, -72.08"		3/13/2018	3/13/2018	8	1	1	1	4	6	1	7	4
+2358	QC12a-228	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+1378	QC07-755	Canada	North America	qc_nf	NA_eastern	St. Hyacinthe	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.626829, -72.94695"		1/29/2015	1/29/2015	6	1	5	1	1	7	1	8	7
+2157	102	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	Eastern chipmunk	"45.12, -73.21"		3/13/2018	3/13/2018	6	1	5	1	1	7	1	19	59
+1387	QC07-908	Canada	North America	qc_nf	NA_eastern	Knowlton	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.216716, -72.514769"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	1	1
+1370	QC07-402	Canada	North America	qc_nf	NA_eastern	Laval	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.570347, -73.692032"		1/29/2015	1/29/2015	10	5	75	6	1	15	1	6	238
+3405	QC13-351	Canada	North America	qc_nf	NA_eastern	Mont-Saint Bruno	Quebec	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"45.5504, -73.3184"	SAMN05290100	3/24/2022	3/24/2022	1	1	1	1	1	1	1	1	1
+1391	QC07-1054	Canada	North America	qc_nf	NA_eastern	Montreal	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.545447, -73.639076"		1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+2360	QC12a-251	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2347	QC12a-163	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	3	3	2	4	3	4	4	4	12
+1385	QC07-84	Canada	North America	qc_nf	NA_eastern	Pierrefonds	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.482147, -73.862213"		1/29/2015	1/29/2015	4	1	1	1	1	6	1	7	3
+2357	QC12a-218	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+2164	264	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	tick	Ixodes scapularis	"45.12, -73.21"		3/13/2018	3/13/2018	6	1	5	1	1	7	1	19	59
+2366	QC12a-286	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	2	2	1	2	2	2	2	2	16
+1377	QC07-723	Canada	North America	qc_nf	NA_eastern	Longueuil	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.531273, -73.518087"		1/29/2015	1/29/2015	5	7	5	1	6	1	4	9	11
+2168	812	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	tick	Ixodes scapularis	"45.31, -73.01"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+1380	QC07-776	Canada	North America	qc_nf	NA_eastern	Montreal	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.545447, -73.639076"		1/29/2015	1/29/2015	3	3	2	4	3	4	4	4	12
+1376	QC07-650	Canada	North America	qc_nf	NA_eastern	Montreal	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.545447, -73.639076"		1/29/2015	1/29/2015	2	2	1	2	2	2	2	2	16
+2356	QC12a-212	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	8	1	1	17	1	6	95	10	315
+2155	61.2	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	White tailed deer	"45.17, -73.04"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+2152	42	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	Eastern chipmunk	"45.18, -73.35"		3/13/2018	3/13/2018	9	1	1	7	1	6	1	10	14
+2173	AK09.10-004	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2009	tick	Ixodes scapularis	"45, -74.65"		3/13/2018	3/13/2018	10	5	4	6	1	15	1	6	36
+1383	QC07-819	Canada	North America	qc_nf	NA_eastern	Mirabel	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.682125, -74.038365"		1/29/2015	1/29/2015	5	5	4	5	5	5	1	6	8
+2151	35	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	White footed mouse	"45.18, -73.35"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+1367	QC07-344	Canada	North America	qc_nf	NA_eastern	Sutton	QC	Borrelia burgdorferi sensu stricto	2007	tick	Ixodes scapularis	"45.10681, -72.615467"		1/29/2015	1/29/2015	21	1	15	8	1	18	4	7	38
+1382	QC07-815	Canada	North America	qc_nf	NA_eastern	St. Luc	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.344961, -73.309854"		1/29/2015	1/29/2015	5	5	4	5	5	5	1	6	8
+2165	620	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	White footed mouse	"45.31, -73.01"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+2174	AK09.10-005	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2009	tick	Ixodes scapularis	"45, -74.65"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+1395	QC07-181-4	Canada	North America	qc_nf	NA_eastern	Saint-Valentin	QC	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"45.13608, -73.32732"		1/29/2015	1/29/2015	9	1	1	7	1	6	1	10	14
+2146	25.1	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2008	animal host	White tailed deer	"45.06, -73.22"		3/13/2018	3/13/2018	10	5	4	6	1	15	1	6	36
+2362	QC12a-266	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2365	QC12a-285	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.28, -72.98"		3/13/2018	3/13/2018	3	3	2	4	3	4	4	4	12
+2181	AK09.10-050	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2009	tick	Ixodes scapularis	"45, -74.65"		3/13/2018	3/13/2018	1	1	1	1	1	1	1	1	1
+2344	QC12a-085	Canada	North America	qc_nf	NA_eastern	Quebec	Quebec	Borrelia burgdorferi sensu stricto	2012	tick	Ixodes scapularis	"45.55, -73.32"		3/13/2018	3/13/2018	4	1	1	1	1	6	1	7	3
+2621	CO69	UK [Scotland]	Europe	uk	EU		CambusOMay	Borrelia burgdorferi sensu stricto	2014	tick	Ixodes ricinus	"57.07015, -2.98263"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	264	916
+2632	J1E1_S21	UK [Scotland]	Europe	uk	EU		Culloden	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.483271, -4.13496"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2625	FA37	UK [Scotland]	Europe	uk	EU		Faskally	Borrelia burgdorferi sensu stricto	2014	tick	Ixodes ricinus	"56.710018, -3.76583"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	264	916
+2650	N6	UK [Scotland]	Europe	uk	EU		Forres	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.61207, -3.60511"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2630	HE48	UK [Scotland]	Europe	uk	EU		Hermitage	Borrelia burgdorferi sensu stricto	2014	tick	Ixodes ricinus	"56.55652, -3.61803"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	264	916
+2631	HE92	UK [Scotland]	Europe	uk	EU		Hermitage	Borrelia burgdorferi sensu stricto	2014	tick	Ixodes ricinus	"56.55652, -3.61803"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	264	916
+2622	E10E1_S11	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	14	1	11	1	1	290	1	10	915
+2623	E8E1_S20	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2624	E9E1_S15	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2626	G10E1_S30	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2627	G4E1_S4	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	264	916
+2628	G5E1_S1	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2629	H1E1_S26	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	1997	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2633	K41E1_S12	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2634	K42E1_S8	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2635	K44E1_S32	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2636	K45E1_S5	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2637	K46E1_S2	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2638	M35E1_S31	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2639	M36E1_S27	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2640	M37E1_S22	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2641	M38E1_S18	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2642	M39E1_S17	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2643	M40E1_S13	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2644	M41E1_S9	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2645	M42E1_S24	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2646	M44	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2647	M45E1_S14	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2648	M46E1_S10	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+2649	M47E1_S6	UK [Scotland]	Europe	uk	EU		Urchany	Borrelia burgdorferi sensu stricto	2013	tick	Ixodes ricinus	"57.517776, -3.86502"		7/23/2019	7/23/2019	15	9	12	8	1	290	8	265	917
+1029	QC27	UK [Scotland]	Europe	uk	EU			Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	14	1	11	1	1	11	1	10	284
+1030	FZ3	UK [Scotland]	Europe	uk	EU			Borrelia burgdorferi sensu stricto		tick	Ixodes ricinus			1/29/2015	1/29/2015	15	9	12	8	1	11	11	16	285
+448	51803	USA	North America	west_mw_us	NA_midwest	Foothills State Forest	MN	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"46.81373333, -94.59801667"		1/29/2015	1/29/2015	4	4	3	3	3	21	6	3	43
+1233	MC150	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	2003	human	EM			1/29/2015	1/29/2015	24	14	4	18	11	90	1	12	231
+461	1468904	USA	North America	west_mw_us	NA_midwest	Hartman Creek State Park	WI	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"44.32466667, -89.22833333"		1/29/2015	1/29/2015	8	1	1	15	2	6	1	10	49
+435	2207117	USA	North America	west_mw_us	NA_midwest	Wildcat Mountain State Park	WI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"43.70618889, -90.56603889"		1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+1207	MC85	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	12	1	1	7	1	6	1	10	52
+1216	MC95	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1997	human	EM			1/29/2015	1/29/2015	3	3	2	2	3	4	4	4	221
+1241	MC86	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	104	1	1	2	2	15	4	10	234
+1227	MC135	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	2001	human	EM			1/29/2015	1/29/2015	8	1	15	94	2	20	1	7	226
+3423	WI-197	USA	North America	west_mw_us	NA_midwest	Black River State Forest	WI	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"44.2319, -90.6602"	SAMN05290129	3/24/2022	3/24/2022	8	1	1	1	4	16	1	7	32
+1185	MC111	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1998	human	EM			1/29/2015	1/29/2015	18	12	1	11	2	15	1	2	29
+1305	MC148	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	2002	human	EM			1/29/2015	1/29/2015	23	1	17	20	2	1	1	7	413
+1244	MC109	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1998	human	EM			1/29/2015	1/29/2015	105	2	2	2	1	8	1	2	235
+469	2206617	USA	North America	west_mw_us	NA_midwest	Brunet Island State Park	WI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"45.18016944, -91.15979722"		1/29/2015	1/29/2015	23	1	17	20	2	1	1	10	55
+1215	MC79	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	3	3	2	2	3	4	4	4	221
+1213	MC78	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	24	14	4	18	11	19	1	12	56
+1218	MC128	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	2000	human	EM			1/29/2015	1/29/2015	5	5	4	5	1	15	1	6	222
+1243	MC99	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1998	human	EM			1/29/2015	1/29/2015	104	1	1	2	2	15	4	10	234
+1417	C311	USA	North America	west_mw_us	NA_midwest	Governor Dodge State Park	WI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"43.0154, -90.1044"		1/29/2015	1/29/2015	8	1	15	94	2	20	76	7	395
+1419	C427	USA	North America	west_mw_us	NA_midwest	Governor Dodge State Park	WI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"43.0154, -90.1044"		1/29/2015	1/29/2015	12	1	1	7	1	6	1	10	52
+1191	MC132	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	2001	human	EM			1/29/2015	1/29/2015	19	1	5	1	2	1	1	10	30
+459	1468503	USA	North America	west_mw_us	NA_midwest	Mirror Lake State Park	WI	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"43.5596, -89.81771667"		1/29/2015	1/29/2015	8	1	1	14	2	6	1	10	48
+3356	KM-116	USA	North America	west_mw_us	NA_midwest	Kettle Moraine State Forest	WI	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"42.8304, -88.6108"	SAMN05290010	3/24/2022	3/24/2022	18	12	1	11	2	15	1	7	1015
+3374	MB-44	USA	North America	west_mw_us	NA_midwest	McCaslin Brook	WI	Borrelia burgdorferi sensu stricto	2013	tick	"Ixodes scapularis, nymph"	"45.3321, -88.7092"	SAMN05290043	3/24/2022	3/24/2022	12	1	1	7	112	6	1	10	301
+1204	MC97	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1997	human	EM			1/29/2015	1/29/2015	8	1	1	14	2	6	1	10	48
+1224	MC80	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	8	1	1	1	4	5	1	7	224
+1245	MC103	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1998	human	EM			1/29/2015	1/29/2015	106	12	1	1	2	6	1	2	236
+466	2208804	USA	North America	west_mw_us	NA_midwest	Brunet Island State Park	WI	Borrelia burgdorferi sensu stricto	2005	tick	Ixodes scapularis	"45.18016944, -91.15979722"		1/29/2015	1/29/2015	12	1	1	13	1	6	1	10	53
+1404	Mid471	USA	North America	west_mw_us	NA_midwest	Fort McCoy	WI	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"44.09994, -90.63089"		1/29/2015	1/29/2015	20	4	3	3	3	3	3	3	31
+1186	MC115	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1999	human	EM			1/29/2015	1/29/2015	18	12	1	11	2	15	1	2	29
+1410	Mid831	USA	North America	west_mw_us	NA_midwest	St Croix State Forest	MN	Borrelia burgdorferi sensu stricto		tick	Ixodes scapularis	"46.04609, -92.41608"		1/29/2015	1/29/2015	157	2	1	95	2	18	118	3	394
+1190	MC93	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1997	human	EM			1/29/2015	1/29/2015	18	12	1	11	2	15	1	2	29
+2051	15-6967	USA	North America	west_mw_us	NA_midwest		MN	Borrelia burgdorferi sensu stricto	2015	human	PCR on Blood			12/4/2017	1/3/2018	14	1	5	2	2	1	1	10	530
+1242	MC87	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	104	1	1	2	2	15	4	10	234
+1232	MC84	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	23	78	17	20	2	1	1	10	230
+1209	MC133	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	2001	human	EM			1/29/2015	1/29/2015	23	1	17	20	2	1	1	10	55
+425	50901	USA	North America	west_mw_us	NA_midwest	Foothills State Forest	MN	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"46.81373333, -94.59801667"		1/29/2015	1/29/2015	18	12	1	11	2	15	1	2	29
+456	47601	USA	North America	west_mw_us	NA_midwest	Foothills State Forest	MN	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes scapularis	"46.81786667, -94.60151667"		1/29/2015	1/29/2015	7	6	12	1	6	5	5	5	47
+1200	MC82	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1996	human	EM			1/29/2015	1/29/2015	4	4	3	3	3	21	6	3	43
+1194	MC112	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1999	human	EM			1/29/2015	1/29/2015	8	1	1	1	4	16	1	7	32
+1183	MC104	USA	North America	west_mw_us	NA_midwest	Midwestern United States	Wisconsin	Borrelia burgdorferi sensu stricto	1998	human	EM			1/29/2015	1/29/2015	8	1	1	1	4	6	1	7	4
+28	CA-4	USA	North America	west_us	NA_west	Cloverdale CA	CA	Borrelia burgdorferi sensu stricto		tick	Ixodes pacificus			1/29/2015	1/29/2015	1	1	7	1	1	1	1	11	2
+29	CA-5	USA	North America	west_us	NA_west	Cloverdale CA	CA	Borrelia burgdorferi sensu stricto		tick	Ixodes pacificus			1/29/2015	1/29/2015	1	1	7	1	1	1	1	11	2
+30	CA-6	USA	North America	west_us	NA_west	Northern CA	CA	Borrelia burgdorferi sensu stricto		tick	Ixodes pacificus			1/29/2015	1/29/2015	1	1	7	1	1	1	1	11	2
+31	ca92-0953	USA	North America	west_us	NA_west	Briceland CA	CA	Borrelia burgdorferi sensu stricto		human	EM			1/29/2015	1/29/2015	11	1	8	1	1	6	4	12	6
+32	ca92-1096	USA	North America	west_us	NA_west	Sonoma CA	CA	Borrelia burgdorferi sensu stricto		human	EM			1/29/2015	1/29/2015	12	2	9	8	5	8	2	13	17
+33	ca92-1337	USA	North America	west_us	NA_west	Humboldt CA	CA	Borrelia burgdorferi sensu stricto		human	EM			1/29/2015	1/29/2015	3	3	2	4	3	6	4	4	13
+34	WTB-27	USA	North America	west_us	NA_west	Pt Reyes CA	CA	Borrelia burgdorferi sensu stricto		tick	Ixodes pacificus			1/29/2015	1/29/2015	11	1	1	9	7	6	4	14	5
+35	WTB-32	USA	North America	west_us	NA_west	Pt Reyes CA	CA	Borrelia burgdorferi sensu stricto		tick	Ixodes pacificus			1/29/2015	1/29/2015	5	5	4	5	8	5	6	6	10
+1069	CA11.2A	USA	North America	west_us	NA_west		CA	Borrelia burgdorferi sensu stricto		tick			GenBank	1/29/2015	1/29/2015	8	1	15	120	1	18	1	7	333
+2039	CA8	USA	North America	west_us	NA_west	Sonoma County	CA	Borrelia burgdorferi sensu stricto	1987	tick	Ixodes pacificus  female			10/20/2017	10/20/2017	160	122	113	139	138	136	199	124	742
+2792	CA11.2A_wgs	USA	North America	west_us	NA_west		CA	Borrelia burgdorferi sensu stricto		tick				2/17/2020	3/5/2024	8	1	15	120	1	18	1	7	333
+1346	WHE 69	USA	North America	west_us	NA_west	Emandal	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.491389389, -123.17882858"		1/29/2015	1/29/2015	159	122	113	139	138	136	4	124	398
+1347	HOPN87	USA	North America	west_us	NA_west	Nelson	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.059567465, -123.145663366"		1/29/2015	1/29/2015	159	122	113	139	138	136	4	124	398
+1348	MNR1	USA	North America	west_us	NA_west	Azzaro	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.04388445, -123.199690916"		1/29/2015	1/29/2015	160	122	113	139	138	136	4	124	399
+1349	MWSRG4	USA	North America	west_us	NA_west	Montgomery Woods Grove	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.231140968, -123.39272968"		1/29/2015	1/29/2015	8	1	1	8	1	18	1	125	400
+1350	LAG24	USA	North America	west_us	NA_west	Geiger	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.686508528, -123.511625134"		1/29/2015	1/29/2015	8	1	5	8	139	18	1	6	401
+1351	HPN92	USA	North America	west_us	NA_west	Howard Pine North	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.342898358, -123.312501455"		1/29/2015	1/29/2015	8	1	1	8	1	18	1	125	400
+1352	DRG5	USA	North America	west_us	NA_west	Gayner	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.71321069, -123.362903659"		1/29/2015	1/29/2015	104	1	8	1	1	6	4	126	402
+1353	HPN91	USA	North America	west_us	NA_west	Howard Pine North	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.342898358, -123.312501455"		1/29/2015	1/29/2015	11	1	8	1	1	6	4	12	6
+1354	RRRA32	USA	North America	west_us	NA_west	"Ayres, Royal Redwood Ranch"	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.222696548, -123.501675048"		1/29/2015	1/29/2015	11	1	8	1	1	6	4	12	6
+1355	FCR13	USA	North America	west_us	NA_west	Keiffer	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"38.972533949, -123.129471199"		1/29/2015	1/29/2015	1	1	7	1	1	1	1	11	2
+1356	RRO17	USA	North America	west_us	NA_west	Ridgewood	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.323533992, -123.306729663"		1/29/2015	1/29/2015	3	3	2	4	3	6	4	4	13
+1357	MML16	USA	North America	west_us	NA_west	Magruder lower	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.279971512, -123.136543857"		1/29/2015	1/29/2015	1	1	1	1	1	1	1	11	403
+1358	HRM49	USA	North America	west_us	NA_west	HR-Maude	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.021711408, -123.055494782"		1/29/2015	1/29/2015	5	5	4	5	8	5	6	6	10
+1359	HWT77	USA	North America	west_us	NA_west	Hendy-Tanoak	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.064322353, -123.460405578"		1/29/2015	1/29/2015	5	5	1	8	1	5	6	127	404
+1360	HPS83	USA	North America	west_us	NA_west	Howard Pine South	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.338872587, -123.30721913"		1/29/2015	1/29/2015	8	1	15	120	1	18	1	7	333
+1361	RCR57	USA	North America	west_us	NA_west	Robinson Creek Road	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.10294423, -123.272936997"		1/29/2015	1/29/2015	8	1	15	120	1	18	1	7	333
+1362	BTW52	USA	North America	west_us	NA_west	Brooktrails west	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.450975465, -123.387231264"		1/29/2015	1/29/2015	8	1	9	8	1	18	4	125	405
+1363	HRP22	USA	North America	west_us	NA_west	HR-Pepperwood	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"38.997213507, -123.080241312"		1/29/2015	1/29/2015	8	1	9	8	1	18	4	128	406
+1364	MCCP6	USA	North America	west_us	NA_west	Mill Creek County Park	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.123519256, -123.125144791"		1/29/2015	1/29/2015	6	1	114	140	1	7	4	127	407
+1365	MCCP84	USA	North America	west_us	NA_west	Mill Creek County Park	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.123519256, -123.125144791"		1/29/2015	1/29/2015	6	1	114	140	1	7	4	11	408
+1366	MAW68	USA	North America	west_us	NA_west	Masonite West	California	Borrelia burgdorferi sensu stricto	2004	tick	Ixodes pacificus	"39.190224257, -123.342276305"		1/29/2015	1/29/2015	6	1	114	140	1	7	4	11	408
+2079	CA382	USA	North America	west_us	NA_west		California	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes pacificus			1/29/2018	2/2/2018	1	1	7	1	1	1	1	11	2
+2777	CA382_wgs	USA	North America	west_us	NA_west		California	Borrelia burgdorferi sensu stricto	2006	tick	Ixodes pacificus			2/17/2020	3/5/2024	1	1	7	1	1	1	1	11	2
+2786	CA8_wgs	USA	North America	west_us	NA_west	Sonoma County	California	Borrelia burgdorferi sensu stricto	1987	tick	Ixodes pacificus female			2/17/2020	3/5/2024	160	122	113	139	138	136	199	124	742

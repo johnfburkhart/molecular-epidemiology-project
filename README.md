@@ -1,0 +1,1 @@
+This a repository for a project studying the phylogeography of Borrelia Burgdorferi Sensu Stricto in regions of North America and Western Europe. Our project sought to detect any bi-directional gene transfer occuring between these regions.
